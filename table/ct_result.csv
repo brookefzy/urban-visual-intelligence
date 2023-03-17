@@ -1,0 +1,1065 @@
+city,topic,variables,target,trainR2,testR2,spatialres
+boston,Crime,gsv,logcrime,0.2601695834034479,0.1393680518912616,ct
+boston,Crime,gsv,logpetty,0.21041699141854164,0.10552657272515616,ct
+boston,Health,gsv,bphighcrud,0.36907772595072547,0.32352040657472075,ct
+boston,Health,gsv,cancercrud,0.5264848583406543,0.48063567180975425,ct
+boston,Health,gsv,diabetescr,0.3563233088252517,0.2940945678467407,ct
+boston,Health,gsv,lpacrudepr,0.5048440279985694,0.41731289270776184,ct
+boston,Health,gsv,mhlthcrude,0.46875320539044196,0.4094512780586944,ct
+boston,Health,gsv,obesitycru,0.4074580851854165,0.32721670883171927,ct
+boston,Health,gsv,phlthcrude,0.4373356246007602,0.36673232941289036,ct
+boston,Non-vehicle Travel,gsv,publictrans_per_ct,0.6462017621140811,0.6070626539727779,ct
+boston,Non-vehicle Travel,gsv,walkbike_per_ct,0.7728698806065218,0.7459486010916787,ct
+boston,Poverty,gsv,logincome,0.5429830599716015,0.4909207575590931,ct
+boston,Poverty,gsv,povertyline_below100,0.46288816010632994,0.40852194484073284,ct
+boston,Poverty,gsv,povertyline_below200,0.5516306860235292,0.49692648369875503,ct
+boston,Vehicle Travel,gsv,drove_alone_per_ct,0.8081208656578032,0.7767264609522124,ct
+boston,Vehicle Travel,gsv,estpmiles,0.7945194207941071,0.7803702995333911,ct
+boston,Vehicle Travel,gsv,estptrp,0.5561691684318559,0.5057356828464208,ct
+boston,Vehicle Travel,gsv,estvmiles,0.8459841498756372,0.8257976628581891,ct
+boston,Vehicle Travel,gsv,estvtrp,0.8348526335835824,0.8144528003210304,ct
+chicago,Crime,gsv,logcrime,0.44496003432574555,0.3581608677888773,ct
+chicago,Crime,gsv,logpetty,0.2844592459415637,0.157067367642944,ct
+chicago,Health,gsv,bphighcrud,0.5705084817288757,0.5461603323437813,ct
+chicago,Health,gsv,cancercrud,0.40848271425370736,0.3712879339129449,ct
+chicago,Health,gsv,diabetescr,0.6195133715439752,0.5935358488091879,ct
+chicago,Health,gsv,lpacrudepr,0.598824995129838,0.5759485436939797,ct
+chicago,Health,gsv,mhlthcrude,0.5152808414490495,0.4897389167422685,ct
+chicago,Health,gsv,obesitycru,0.5577779729570093,0.52625622068285,ct
+chicago,Health,gsv,phlthcrude,0.5919710445247885,0.5703111532712134,ct
+chicago,Non-vehicle Travel,gsv,publictrans_per_ct,0.7096101042202503,0.6822237744403292,ct
+chicago,Non-vehicle Travel,gsv,walkbike_per_ct,0.46505330295544456,0.4216958669783696,ct
+chicago,Poverty,gsv,logincome,0.5798459248083276,0.5637963198565956,ct
+chicago,Poverty,gsv,povertyline_below100,0.5121274771457996,0.4942116737054529,ct
+chicago,Poverty,gsv,povertyline_below200,0.5610212244963293,0.5439705063013653,ct
+chicago,Vehicle Travel,gsv,drove_alone_per_ct,0.7965893696779722,0.7718295070952891,ct
+chicago,Vehicle Travel,gsv,estpmiles,0.6552698412606234,0.6384600132784896,ct
+chicago,Vehicle Travel,gsv,estptrp,0.51661799711505,0.48401021201947103,ct
+chicago,Vehicle Travel,gsv,estvmiles,0.7005804860540905,0.6627011496569921,ct
+chicago,Vehicle Travel,gsv,estvtrp,0.7069997915753116,0.6846805462126945,ct
+losangeles,Crime,gsv,logcrime,0.4693441958383443,0.43925743447361876,ct
+losangeles,Crime,gsv,logpetty,0.198486743422824,0.1062319480482284,ct
+losangeles,Health,gsv,bphighcrud,0.15206293464304818,0.14335594649205904,ct
+losangeles,Health,gsv,cancercrud,0.4409947294395896,0.4428086519186153,ct
+losangeles,Health,gsv,diabetescr,0.44444189668383266,0.4278944253870046,ct
+losangeles,Health,gsv,lpacrudepr,0.6617779504818363,0.6560958874977174,ct
+losangeles,Health,gsv,mhlthcrude,0.5691838866894552,0.5625655895365946,ct
+losangeles,Health,gsv,obesitycru,0.5417847431749409,0.5206609362107224,ct
+losangeles,Health,gsv,phlthcrude,0.5875582972035793,0.5601565369941899,ct
+losangeles,Non-vehicle Travel,gsv,publictrans_per_ct,0.5218523571802703,0.487693564267852,ct
+losangeles,Non-vehicle Travel,gsv,walkbike_per_ct,0.1890130336043238,0.17152018760316973,ct
+losangeles,Poverty,gsv,logincome,0.5994681166874397,0.5683503624384646,ct
+losangeles,Poverty,gsv,povertyline_below100,0.4390063836260378,0.38955561033656627,ct
+losangeles,Poverty,gsv,povertyline_below200,0.5938765053201589,0.5641746306221492,ct
+losangeles,Vehicle Travel,gsv,drove_alone_per_ct,0.45585197797548893,0.4567281553322332,ct
+losangeles,Vehicle Travel,gsv,estpmiles,0.5049676101092939,0.4952998482162151,ct
+losangeles,Vehicle Travel,gsv,estptrp,0.4983205474219382,0.47099944022227314,ct
+losangeles,Vehicle Travel,gsv,estvmiles,0.5424176374855767,0.5324751816152259,ct
+losangeles,Vehicle Travel,gsv,estvtrp,0.5891050168469825,0.5548960996129102,ct
+miami,Crime,gsv,logcrime,,,ct
+miami,Crime,gsv,logpetty,,,ct
+miami,Health,gsv,bphighcrud,0.2309820783328599,0.16313824905512517,ct
+miami,Health,gsv,cancercrud,0.24486219479662125,0.21182486505478063,ct
+miami,Health,gsv,diabetescr,0.4471928465480498,0.423724421808357,ct
+miami,Health,gsv,lpacrudepr,0.601475557768635,0.5896974280016046,ct
+miami,Health,gsv,mhlthcrude,0.3509631730873949,0.3114469489624129,ct
+miami,Health,gsv,obesitycru,0.4388064177479826,0.40574058693137366,ct
+miami,Health,gsv,phlthcrude,0.46882557814320924,0.4476248219850253,ct
+miami,Non-vehicle Travel,gsv,publictrans_per_ct,0.3958934825693931,0.38391742562177306,ct
+miami,Non-vehicle Travel,gsv,walkbike_per_ct,0.4408141342699775,0.39705302361774397,ct
+miami,Poverty,gsv,logincome,0.518044774110795,0.5081309870762938,ct
+miami,Poverty,gsv,povertyline_below100,0.39253359342479144,0.3371043602004561,ct
+miami,Poverty,gsv,povertyline_below200,0.5052572108144647,0.4824801018726491,ct
+miami,Vehicle Travel,gsv,drove_alone_per_ct,0.37618753288782825,0.3747461493992592,ct
+miami,Vehicle Travel,gsv,estpmiles,0.4551185926060257,0.3974244473894027,ct
+miami,Vehicle Travel,gsv,estptrp,0.39709874693806324,0.3275681103906571,ct
+miami,Vehicle Travel,gsv,estvmiles,0.41894229448666015,0.3951817106572,ct
+miami,Vehicle Travel,gsv,estvtrp,0.4398953312398698,0.4154304789738865,ct
+newyork,Crime,gsv,logcrime,0.3267494973938406,0.29421642410835264,ct
+newyork,Crime,gsv,logpetty,0.33639726385926866,0.33871746940807845,ct
+newyork,Health,gsv,bphighcrud,0.35875793909078535,0.35513555612600767,ct
+newyork,Health,gsv,cancercrud,0.45618097216585723,0.4135134009385311,ct
+newyork,Health,gsv,diabetescr,0.45898791274865525,0.44837813522938263,ct
+newyork,Health,gsv,lpacrudepr,0.5385348017481293,0.5125731227892998,ct
+newyork,Health,gsv,mhlthcrude,0.3855151345693636,0.3459932830139901,ct
+newyork,Health,gsv,obesitycru,0.4250112884664645,0.3900437585452628,ct
+newyork,Health,gsv,phlthcrude,0.4006271905878546,0.37887458002885116,ct
+newyork,Non-vehicle Travel,gsv,publictrans_per_ct,0.8212353977436561,0.819273604709494,ct
+newyork,Non-vehicle Travel,gsv,walkbike_per_ct,0.5317419791827878,0.5014309747773205,ct
+newyork,Poverty,gsv,logincome,0.5221291792493516,0.5081689489017666,ct
+newyork,Poverty,gsv,povertyline_below100,0.4198090254141034,0.39666834287911057,ct
+newyork,Poverty,gsv,povertyline_below200,0.4978299804510309,0.4789938852070027,ct
+newyork,Vehicle Travel,gsv,drove_alone_per_ct,0.8843683750698066,0.8789304361167913,ct
+newyork,Vehicle Travel,gsv,estpmiles,0.7509026580466742,0.7436616043888031,ct
+newyork,Vehicle Travel,gsv,estptrp,0.417348547351221,0.39581071090435305,ct
+newyork,Vehicle Travel,gsv,estvmiles,0.8198830887313641,0.8166277372874895,ct
+newyork,Vehicle Travel,gsv,estvtrp,0.8544021993631116,0.8451660995268739,ct
+philadelphia,Crime,gsv,logcrime,0.7000195729872886,0.6392406470044507,ct
+philadelphia,Crime,gsv,logpetty,0.47332538432221494,0.40911829099673785,ct
+philadelphia,Health,gsv,bphighcrud,0.34523252189670134,0.25994222195092187,ct
+philadelphia,Health,gsv,cancercrud,0.3811613693910475,0.3658653241724584,ct
+philadelphia,Health,gsv,diabetescr,0.5245403385365239,0.4621568549228683,ct
+philadelphia,Health,gsv,lpacrudepr,0.6825240695567165,0.6429530091499585,ct
+philadelphia,Health,gsv,mhlthcrude,0.6498971083858956,0.6202513011386656,ct
+philadelphia,Health,gsv,obesitycru,0.4660611496839328,0.3953768467899934,ct
+philadelphia,Health,gsv,phlthcrude,0.631865483827598,0.5767429530999989,ct
+philadelphia,Non-vehicle Travel,gsv,publictrans_per_ct,0.6766134777297415,0.6828724860777979,ct
+philadelphia,Non-vehicle Travel,gsv,walkbike_per_ct,0.6619099175656991,0.6256131055242224,ct
+philadelphia,Poverty,gsv,logincome,0.6302537576032532,0.5969593843071915,ct
+philadelphia,Poverty,gsv,povertyline_below100,0.5874275447212995,0.5490346161593415,ct
+philadelphia,Poverty,gsv,povertyline_below200,0.6585175441146843,0.6247975657913412,ct
+philadelphia,Vehicle Travel,gsv,drove_alone_per_ct,0.7726624280510006,0.7818297408197771,ct
+philadelphia,Vehicle Travel,gsv,estpmiles,0.7411622070904159,0.7394098049578819,ct
+philadelphia,Vehicle Travel,gsv,estptrp,0.4742728157752013,0.44783093580345923,ct
+philadelphia,Vehicle Travel,gsv,estvmiles,0.7814865484473102,0.758558216450312,ct
+philadelphia,Vehicle Travel,gsv,estvtrp,0.7611484712984553,0.7689126799718833,ct
+sanfrancisco,Crime,gsv,logcrime,0.641427925222633,0.47167950546705006,ct
+sanfrancisco,Crime,gsv,logpetty,0.6140923430085456,0.4457216145680671,ct
+sanfrancisco,Health,gsv,bphighcrud,0.30597326730343494,0.23774346585567088,ct
+sanfrancisco,Health,gsv,cancercrud,0.5116815807555195,0.44042371227057364,ct
+sanfrancisco,Health,gsv,diabetescr,0.4008997405131615,0.34178115342800375,ct
+sanfrancisco,Health,gsv,lpacrudepr,0.5413415649311891,0.47895330875612024,ct
+sanfrancisco,Health,gsv,mhlthcrude,0.47764647513873293,0.40144595699519947,ct
+sanfrancisco,Health,gsv,obesitycru,0.5906165837501149,0.5402164009675783,ct
+sanfrancisco,Health,gsv,phlthcrude,0.48566064762902766,0.41673999518549126,ct
+sanfrancisco,Non-vehicle Travel,gsv,publictrans_per_ct,0.7259824082278037,0.6826567056495303,ct
+sanfrancisco,Non-vehicle Travel,gsv,walkbike_per_ct,0.7825777922205073,0.7140291191669272,ct
+sanfrancisco,Poverty,gsv,logincome,0.47199509081200297,0.39071402607153777,ct
+sanfrancisco,Poverty,gsv,povertyline_below100,0.3728629292913489,0.30831731515447813,ct
+sanfrancisco,Poverty,gsv,povertyline_below200,0.46599069039789925,0.3952625898824393,ct
+sanfrancisco,Vehicle Travel,gsv,drove_alone_per_ct,0.8335743285530608,0.8267348912557797,ct
+sanfrancisco,Vehicle Travel,gsv,estpmiles,0.6210173597684013,0.6125110212892002,ct
+sanfrancisco,Vehicle Travel,gsv,estptrp,0.5669213112416205,0.5103495510065275,ct
+sanfrancisco,Vehicle Travel,gsv,estvmiles,0.6704175983078243,0.647049492055061,ct
+sanfrancisco,Vehicle Travel,gsv,estvtrp,0.704302354875043,0.6490999822716665,ct
+boston,Crime,poi,logcrime,0.2443550118440398,0.1443697211168515,ct
+boston,Crime,poi,logpetty,0.3702208063847213,0.25705666373997443,ct
+boston,Health,poi,bphighcrud,0.39408114373667,0.33332299724755676,ct
+boston,Health,poi,cancercrud,0.5506661173525436,0.485304733378484,ct
+boston,Health,poi,diabetescr,0.35883485137510734,0.304165638493135,ct
+boston,Health,poi,lpacrudepr,0.44631020846505,0.3795049716775622,ct
+boston,Health,poi,mhlthcrude,0.4625434561678354,0.4031068575336236,ct
+boston,Health,poi,obesitycru,0.5017202587122706,0.4547463848676829,ct
+boston,Health,poi,phlthcrude,0.42343803442498296,0.3685322703424317,ct
+boston,Non-vehicle Travel,poi,publictrans_per_ct,0.6502443226712531,0.6139069747863573,ct
+boston,Non-vehicle Travel,poi,walkbike_per_ct,0.5902134165371425,0.5240747490450351,ct
+boston,Poverty,poi,logincome,0.44781844015393596,0.38186779146533706,ct
+boston,Poverty,poi,povertyline_below100,0.4081234421671466,0.34449412692668313,ct
+boston,Poverty,poi,povertyline_below200,0.4684444822462647,0.41832862439798485,ct
+boston,Vehicle Travel,poi,drove_alone_per_ct,0.7593633383554295,0.7361262746506575,ct
+boston,Vehicle Travel,poi,estpmiles,0.6703302544957289,0.6448017844521239,ct
+boston,Vehicle Travel,poi,estptrp,0.4918831724523168,0.45520389820564666,ct
+boston,Vehicle Travel,poi,estvmiles,0.7162864001599418,0.6748712323313939,ct
+boston,Vehicle Travel,poi,estvtrp,0.7220104365616173,0.7026277571564669,ct
+chicago,Crime,poi,logcrime,0.5546937191424764,0.4756100130820834,ct
+chicago,Crime,poi,logpetty,0.5773737618522027,0.48906542306741463,ct
+chicago,Health,poi,bphighcrud,0.5166846900023335,0.5015056211143916,ct
+chicago,Health,poi,cancercrud,0.3887596075140379,0.35265413968631015,ct
+chicago,Health,poi,diabetescr,0.617357039556944,0.5981466291705111,ct
+chicago,Health,poi,lpacrudepr,0.6562848074851397,0.6369830741410477,ct
+chicago,Health,poi,mhlthcrude,0.5836398503642186,0.5658181890405726,ct
+chicago,Health,poi,obesitycru,0.582174485315214,0.5701990736238564,ct
+chicago,Health,poi,phlthcrude,0.6087744358182151,0.5886300728615761,ct
+chicago,Non-vehicle Travel,poi,publictrans_per_ct,0.6508717408742195,0.6255090752888322,ct
+chicago,Non-vehicle Travel,poi,walkbike_per_ct,0.4011076751488198,0.3306057942248356,ct
+chicago,Poverty,poi,logincome,0.6011726839454508,0.5890731223570703,ct
+chicago,Poverty,poi,povertyline_below100,0.5240257254357561,0.510392204346483,ct
+chicago,Poverty,poi,povertyline_below200,0.6212635856000188,0.6081580341108445,ct
+chicago,Vehicle Travel,poi,drove_alone_per_ct,0.6685892251725291,0.6235942271763951,ct
+chicago,Vehicle Travel,poi,estpmiles,0.5682461791320732,0.5407763501156881,ct
+chicago,Vehicle Travel,poi,estptrp,0.4042458181752484,0.3522148134277357,ct
+chicago,Vehicle Travel,poi,estvmiles,0.6278038289825373,0.60189025565107,ct
+chicago,Vehicle Travel,poi,estvtrp,0.6122108234539065,0.5956457337877756,ct
+losangeles,Crime,poi,logcrime,0.49065495130100845,0.475646802380534,ct
+losangeles,Crime,poi,logpetty,0.4754449459284714,0.46763140225918587,ct
+losangeles,Health,poi,bphighcrud,0.08802484610482612,-0.1703906823392248,ct
+losangeles,Health,poi,cancercrud,0.4220567753192343,0.3923430048487053,ct
+losangeles,Health,poi,diabetescr,0.45905509981145853,0.41940778344508856,ct
+losangeles,Health,poi,lpacrudepr,0.651834540781594,0.6511939920350114,ct
+losangeles,Health,poi,mhlthcrude,0.4506335747668729,0.44222147121699373,ct
+losangeles,Health,poi,obesitycru,0.5110672391842757,0.4991604473025667,ct
+losangeles,Health,poi,phlthcrude,0.51969376195527,0.4579097862421115,ct
+losangeles,Non-vehicle Travel,poi,publictrans_per_ct,0.35921006640013475,0.31692643198128767,ct
+losangeles,Non-vehicle Travel,poi,walkbike_per_ct,0.08028576636118369,0.022288386377779502,ct
+losangeles,Poverty,poi,logincome,0.5242688308750092,0.4954484748638879,ct
+losangeles,Poverty,poi,povertyline_below100,0.32759067234368927,0.2947277184113438,ct
+losangeles,Poverty,poi,povertyline_below200,0.5018045762162664,0.47222924675778516,ct
+losangeles,Vehicle Travel,poi,drove_alone_per_ct,0.2528876256082687,0.23658468565011742,ct
+losangeles,Vehicle Travel,poi,estpmiles,0.333234555137018,-0.992107828844117,ct
+losangeles,Vehicle Travel,poi,estptrp,0.34063424659555425,0.30395581942248484,ct
+losangeles,Vehicle Travel,poi,estvmiles,0.3640798124539891,-2.4078775629736704,ct
+losangeles,Vehicle Travel,poi,estvtrp,0.3634756457366521,0.06139526670067268,ct
+miami,Crime,poi,logcrime,,,ct
+miami,Crime,poi,logpetty,,,ct
+miami,Health,poi,bphighcrud,0.22173511211192437,0.1651704569366061,ct
+miami,Health,poi,cancercrud,0.3582117647135621,0.34917892144921947,ct
+miami,Health,poi,diabetescr,0.37052860869521875,0.33688300051797604,ct
+miami,Health,poi,lpacrudepr,0.557428217900927,0.5292023019784822,ct
+miami,Health,poi,mhlthcrude,0.3829802431900051,0.3145019543898092,ct
+miami,Health,poi,obesitycru,0.4825006898466565,0.43950631866246415,ct
+miami,Health,poi,phlthcrude,0.39302629936061817,0.3496858047014066,ct
+miami,Non-vehicle Travel,poi,publictrans_per_ct,0.26521963548733535,0.22638472869672005,ct
+miami,Non-vehicle Travel,poi,walkbike_per_ct,0.30297293895259814,0.22079114852155385,ct
+miami,Poverty,poi,logincome,0.3928777774443356,0.35346549779652875,ct
+miami,Poverty,poi,povertyline_below100,0.36177611388908665,0.29764897047110694,ct
+miami,Poverty,poi,povertyline_below200,0.43652272965385264,0.4015258089648297,ct
+miami,Vehicle Travel,poi,drove_alone_per_ct,0.23849243747406618,0.18639597380580747,ct
+miami,Vehicle Travel,poi,estpmiles,0.34952355395667595,0.3017730992684712,ct
+miami,Vehicle Travel,poi,estptrp,0.3490058612986397,0.30804057769749016,ct
+miami,Vehicle Travel,poi,estvmiles,0.32855155877822434,0.2928170235717429,ct
+miami,Vehicle Travel,poi,estvtrp,0.33553852942203266,0.3127916109030705,ct
+newyork,Crime,poi,logcrime,0.3496085091433196,0.32954168086936914,ct
+newyork,Crime,poi,logpetty,0.3923263846338176,0.3922630897917473,ct
+newyork,Health,poi,bphighcrud,0.3097541489485228,0.2906513051974141,ct
+newyork,Health,poi,cancercrud,0.467917717490525,0.036229389213445096,ct
+newyork,Health,poi,diabetescr,0.35925444680778196,0.3401489682896328,ct
+newyork,Health,poi,lpacrudepr,0.42925137600704,0.4046306678536301,ct
+newyork,Health,poi,mhlthcrude,0.3566032888628324,0.326131987909242,ct
+newyork,Health,poi,obesitycru,0.3819358921858877,0.35041981138191436,ct
+newyork,Health,poi,phlthcrude,0.3188742779036667,0.29962380875715444,ct
+newyork,Non-vehicle Travel,poi,publictrans_per_ct,0.7083569634997532,0.6997798996804009,ct
+newyork,Non-vehicle Travel,poi,walkbike_per_ct,0.3114199762321654,0.2909423169321253,ct
+newyork,Poverty,poi,logincome,0.44957566772043106,0.4322016878033006,ct
+newyork,Poverty,poi,povertyline_below100,0.3644143949906512,0.35593323687631906,ct
+newyork,Poverty,poi,povertyline_below200,0.4602534933164618,0.4493106126915555,ct
+newyork,Vehicle Travel,poi,drove_alone_per_ct,0.7171924156346914,0.7095279334368032,ct
+newyork,Vehicle Travel,poi,estpmiles,0.6085088325344247,0.544389282108719,ct
+newyork,Vehicle Travel,poi,estptrp,0.28176139977251424,0.26410168482329766,ct
+newyork,Vehicle Travel,poi,estvmiles,0.6784584160124119,0.6502384039721307,ct
+newyork,Vehicle Travel,poi,estvtrp,0.7126525788338841,0.7005816241853465,ct
+philadelphia,Crime,poi,logcrime,0.5183488394781903,0.4307296274080524,ct
+philadelphia,Crime,poi,logpetty,0.6475635810199173,0.5787046692531137,ct
+philadelphia,Health,poi,bphighcrud,0.3927200329298454,0.3414190740784404,ct
+philadelphia,Health,poi,cancercrud,0.396188019538116,0.35904880512455195,ct
+philadelphia,Health,poi,diabetescr,0.48619285983413496,0.4468523741382631,ct
+philadelphia,Health,poi,lpacrudepr,0.5762269855648949,0.5521903543794711,ct
+philadelphia,Health,poi,mhlthcrude,0.5487066586464688,0.516169838845826,ct
+philadelphia,Health,poi,obesitycru,0.42305433377168666,0.3738126768439595,ct
+philadelphia,Health,poi,phlthcrude,0.528421539663473,0.4975291658222817,ct
+philadelphia,Non-vehicle Travel,poi,publictrans_per_ct,0.5664734168648594,0.5700200697826444,ct
+philadelphia,Non-vehicle Travel,poi,walkbike_per_ct,0.49362039477165054,0.42698357392228764,ct
+philadelphia,Poverty,poi,logincome,0.5451014385862972,0.5235259275741209,ct
+philadelphia,Poverty,poi,povertyline_below100,0.463428764121759,0.40976362131679656,ct
+philadelphia,Poverty,poi,povertyline_below200,0.5338080687601693,0.5041763242816482,ct
+philadelphia,Vehicle Travel,poi,drove_alone_per_ct,0.6458359674026249,0.6459338899301394,ct
+philadelphia,Vehicle Travel,poi,estpmiles,0.6201657619798832,0.6267460813979192,ct
+philadelphia,Vehicle Travel,poi,estptrp,0.3628397242264884,0.32787283566722975,ct
+philadelphia,Vehicle Travel,poi,estvmiles,0.6635139239858484,0.6482127146173572,ct
+philadelphia,Vehicle Travel,poi,estvtrp,0.6573641051366744,0.6506712672147972,ct
+sanfrancisco,Crime,poi,logcrime,0.720049459822625,0.5579358205048337,ct
+sanfrancisco,Crime,poi,logpetty,0.7137909288013066,0.5608826552352003,ct
+sanfrancisco,Health,poi,bphighcrud,0.21467662366274812,-0.009379840625570558,ct
+sanfrancisco,Health,poi,cancercrud,0.37466563749925735,-0.11234407991242097,ct
+sanfrancisco,Health,poi,diabetescr,0.3492756111183249,0.27651430034666935,ct
+sanfrancisco,Health,poi,lpacrudepr,0.47382192807006385,0.3931101458396159,ct
+sanfrancisco,Health,poi,mhlthcrude,0.3519047743054157,0.19486861810456207,ct
+sanfrancisco,Health,poi,obesitycru,0.3563208212767157,0.24313324526325192,ct
+sanfrancisco,Health,poi,phlthcrude,0.3834632370219741,0.3052492362819191,ct
+sanfrancisco,Non-vehicle Travel,poi,publictrans_per_ct,0.5989715603408945,0.5256597597288526,ct
+sanfrancisco,Non-vehicle Travel,poi,walkbike_per_ct,0.6095326650671782,0.5038458794866394,ct
+sanfrancisco,Poverty,poi,logincome,0.36752077815372186,0.24719683578102297,ct
+sanfrancisco,Poverty,poi,povertyline_below100,0.2660685766893416,0.18359319840998478,ct
+sanfrancisco,Poverty,poi,povertyline_below200,0.3310203350387949,0.2472634079894065,ct
+sanfrancisco,Vehicle Travel,poi,drove_alone_per_ct,0.6401319074922709,0.5410206556707984,ct
+sanfrancisco,Vehicle Travel,poi,estpmiles,0.4204750459715737,0.3686764959156855,ct
+sanfrancisco,Vehicle Travel,poi,estptrp,0.4539901479022153,0.4094400517392155,ct
+sanfrancisco,Vehicle Travel,poi,estvmiles,0.46285713775173043,0.31461793854219755,ct
+sanfrancisco,Vehicle Travel,poi,estvtrp,0.5003172629766256,0.4503276377105113,ct
+boston,Crime,poi+gsv,logcrime,0.32542476748457405,0.17905544096509646,ct
+boston,Crime,poi+gsv,logpetty,0.43697732911188114,0.2764466294759643,ct
+boston,Health,poi+gsv,bphighcrud,0.4623628241365818,0.4041910441522701,ct
+boston,Health,poi+gsv,cancercrud,0.6478831010335251,0.5713753992813865,ct
+boston,Health,poi+gsv,diabetescr,0.49606806584986873,0.4315068502740703,ct
+boston,Health,poi+gsv,lpacrudepr,0.637260137251429,0.5527971691521095,ct
+boston,Health,poi+gsv,mhlthcrude,0.5963676996520585,0.517672470230645,ct
+boston,Health,poi+gsv,obesitycru,0.5789483216991048,0.5017960764143223,ct
+boston,Health,poi+gsv,phlthcrude,0.5687055508629422,0.49930216086777374,ct
+boston,Non-vehicle Travel,poi+gsv,publictrans_per_ct,0.7489105733382154,0.6899652593686423,ct
+boston,Non-vehicle Travel,poi+gsv,walkbike_per_ct,0.8058946209446664,0.7692663001502421,ct
+boston,Poverty,poi+gsv,logincome,0.6263195604779991,0.5519990766840707,ct
+boston,Poverty,poi+gsv,povertyline_below100,0.550207547399238,0.4681332956033801,ct
+boston,Poverty,poi+gsv,povertyline_below200,0.6382574690313223,0.5764877863722574,ct
+boston,Vehicle Travel,poi+gsv,drove_alone_per_ct,0.8570194695356823,0.8289941489345163,ct
+boston,Vehicle Travel,poi+gsv,estpmiles,0.8236710865057855,0.803384917441355,ct
+boston,Vehicle Travel,poi+gsv,estptrp,0.5821270542927884,0.5137905739189015,ct
+boston,Vehicle Travel,poi+gsv,estvmiles,0.8604130071515051,0.8415732198398009,ct
+boston,Vehicle Travel,poi+gsv,estvtrp,0.8531049917985756,0.8322094985970679,ct
+chicago,Crime,poi+gsv,logcrime,0.6600325025899165,0.5717753910240844,ct
+chicago,Crime,poi+gsv,logpetty,0.6368047865564666,0.5338966832507956,ct
+chicago,Health,poi+gsv,bphighcrud,0.6612872357707726,0.6305824178121064,ct
+chicago,Health,poi+gsv,cancercrud,0.48995010716667986,0.44963900845770866,ct
+chicago,Health,poi+gsv,diabetescr,0.7242493048933797,0.6959151900132364,ct
+chicago,Health,poi+gsv,lpacrudepr,0.7375013689296549,0.7051976977404857,ct
+chicago,Health,poi+gsv,mhlthcrude,0.6612740481814884,0.6203788038483559,ct
+chicago,Health,poi+gsv,obesitycru,0.6919603860211925,0.6599338026857516,ct
+chicago,Health,poi+gsv,phlthcrude,0.7048580498052844,0.671581846467791,ct
+chicago,Non-vehicle Travel,poi+gsv,publictrans_per_ct,0.7588779584477006,0.731958067784133,ct
+chicago,Non-vehicle Travel,poi+gsv,walkbike_per_ct,0.5208452879062371,0.45513118541832237,ct
+chicago,Poverty,poi+gsv,logincome,0.7006919775046445,0.6795795840557484,ct
+chicago,Poverty,poi+gsv,povertyline_below100,0.6076704187059365,0.5871517397701096,ct
+chicago,Poverty,poi+gsv,povertyline_below200,0.6892458873108204,0.6673912403593756,ct
+chicago,Vehicle Travel,poi+gsv,drove_alone_per_ct,0.817300245099862,0.7904954472279144,ct
+chicago,Vehicle Travel,poi+gsv,estpmiles,0.7031346482186536,0.6727435821877173,ct
+chicago,Vehicle Travel,poi+gsv,estptrp,0.5593838260757111,0.5100583913356612,ct
+chicago,Vehicle Travel,poi+gsv,estvmiles,0.7552161657640936,0.7161409712735975,ct
+chicago,Vehicle Travel,poi+gsv,estvtrp,0.7567669360054714,0.7325355419750813,ct
+losangeles,Crime,poi+gsv,logcrime,0.6041806833785108,0.5720162945040339,ct
+losangeles,Crime,poi+gsv,logpetty,0.5070961991544944,0.47574342255839125,ct
+losangeles,Health,poi+gsv,bphighcrud,0.17144701631383807,0.03356201667015078,ct
+losangeles,Health,poi+gsv,cancercrud,0.5230021170424662,0.506416057000009,ct
+losangeles,Health,poi+gsv,diabetescr,0.5287908493154463,0.47753249062918923,ct
+losangeles,Health,poi+gsv,lpacrudepr,0.7532901567660775,0.7392980572326431,ct
+losangeles,Health,poi+gsv,mhlthcrude,0.6155462944776426,0.5966008559613154,ct
+losangeles,Health,poi+gsv,obesitycru,0.621284541978697,0.5962407074027604,ct
+losangeles,Health,poi+gsv,phlthcrude,0.6404154283968628,0.5544692029246473,ct
+losangeles,Non-vehicle Travel,poi+gsv,publictrans_per_ct,0.5853861389800665,0.5313253348798376,ct
+losangeles,Non-vehicle Travel,poi+gsv,walkbike_per_ct,0.1504364799020776,0.07552656666700851,ct
+losangeles,Poverty,poi+gsv,logincome,0.6507774476700381,0.6051915293760495,ct
+losangeles,Poverty,poi+gsv,povertyline_below100,0.4714387337238303,0.41058716087375685,ct
+losangeles,Poverty,poi+gsv,povertyline_below200,0.6347483418432843,0.563991556082731,ct
+losangeles,Vehicle Travel,poi+gsv,drove_alone_per_ct,0.46133224291086333,0.44874437299103853,ct
+losangeles,Vehicle Travel,poi+gsv,estpmiles,0.5409918957651108,0.12054947790311046,ct
+losangeles,Vehicle Travel,poi+gsv,estptrp,0.5375556444965122,0.4958822277544425,ct
+losangeles,Vehicle Travel,poi+gsv,estvmiles,0.5788762740823347,-0.18913587743612506,ct
+losangeles,Vehicle Travel,poi+gsv,estvtrp,0.6193811595411944,0.5188034792975185,ct
+miami,Crime,poi+gsv,logcrime,,,ct
+miami,Crime,poi+gsv,logpetty,,,ct
+miami,Health,poi+gsv,bphighcrud,0.34041269992307727,0.26830241422352274,ct
+miami,Health,poi+gsv,cancercrud,0.44759907204591737,0.4023050209201153,ct
+miami,Health,poi+gsv,diabetescr,0.5163577075463046,0.48155523474109874,ct
+miami,Health,poi+gsv,lpacrudepr,0.7126735606682788,0.6781998573953784,ct
+miami,Health,poi+gsv,mhlthcrude,0.48100541720968304,0.3999663738156557,ct
+miami,Health,poi+gsv,obesitycru,0.5911525434800192,0.52304332553455,ct
+miami,Health,poi+gsv,phlthcrude,0.543195240485409,0.4986449300672896,ct
+miami,Non-vehicle Travel,poi+gsv,publictrans_per_ct,0.4214395953196141,0.3939493834753295,ct
+miami,Non-vehicle Travel,poi+gsv,walkbike_per_ct,0.45462038724466713,0.39299519147609685,ct
+miami,Poverty,poi+gsv,logincome,0.5777083446656582,0.5579072281329431,ct
+miami,Poverty,poi+gsv,povertyline_below100,0.45815500828869016,0.3775388602698622,ct
+miami,Poverty,poi+gsv,povertyline_below200,0.5832460375260673,0.5429014550097252,ct
+miami,Vehicle Travel,poi+gsv,drove_alone_per_ct,0.38269515491090694,0.36566621087280504,ct
+miami,Vehicle Travel,poi+gsv,estpmiles,0.5269981418487497,0.45933259836215845,ct
+miami,Vehicle Travel,poi+gsv,estptrp,0.47720794484264906,0.4321910385170879,ct
+miami,Vehicle Travel,poi+gsv,estvmiles,0.4911885906377398,0.45317874010502307,ct
+miami,Vehicle Travel,poi+gsv,estvtrp,0.49418688384321563,0.46845091716825804,ct
+newyork,Crime,poi+gsv,logcrime,0.441648277325912,0.39839645237963994,ct
+newyork,Crime,poi+gsv,logpetty,0.4346934972338052,0.418089988840575,ct
+newyork,Health,poi+gsv,bphighcrud,0.42950872835501697,0.4084432552456251,ct
+newyork,Health,poi+gsv,cancercrud,0.5407053620483487,0.5027481637436951,ct
+newyork,Health,poi+gsv,diabetescr,0.5152701839679027,0.4903879169210194,ct
+newyork,Health,poi+gsv,lpacrudepr,0.6023051763792668,0.5676427980619174,ct
+newyork,Health,poi+gsv,mhlthcrude,0.4846498628404726,0.43342612878497133,ct
+newyork,Health,poi+gsv,obesitycru,0.5347798645571262,0.4867810935187215,ct
+newyork,Health,poi+gsv,phlthcrude,0.47331167513210853,0.43821471138592794,ct
+newyork,Non-vehicle Travel,poi+gsv,publictrans_per_ct,0.8511862604904916,0.8451530990943829,ct
+newyork,Non-vehicle Travel,poi+gsv,walkbike_per_ct,0.5027934116098123,0.4816588365161292,ct
+newyork,Poverty,poi+gsv,logincome,0.5967586713495865,0.5742024603589254,ct
+newyork,Poverty,poi+gsv,povertyline_below100,0.4874515717048247,0.46280631306804965,ct
+newyork,Poverty,poi+gsv,povertyline_below200,0.5759757795922633,0.5537403903320867,ct
+newyork,Vehicle Travel,poi+gsv,drove_alone_per_ct,0.8931897226482592,0.887144055316457,ct
+newyork,Vehicle Travel,poi+gsv,estpmiles,0.7664003914604401,0.7462775603585946,ct
+newyork,Vehicle Travel,poi+gsv,estptrp,0.4399959769032149,0.4099140890210163,ct
+newyork,Vehicle Travel,poi+gsv,estvmiles,0.826957686505392,0.8162616533711716,ct
+newyork,Vehicle Travel,poi+gsv,estvtrp,0.8671788095779167,0.8554208055945105,ct
+philadelphia,Crime,poi+gsv,logcrime,0.76843737552273,0.6704109577203655,ct
+philadelphia,Crime,poi+gsv,logpetty,0.7225687028315371,0.649942545160977,ct
+philadelphia,Health,poi+gsv,bphighcrud,0.4917748842688271,0.4115554118226992,ct
+philadelphia,Health,poi+gsv,cancercrud,0.46944532007823464,0.43236020159382127,ct
+philadelphia,Health,poi+gsv,diabetescr,0.6393140236729596,0.5715682649825269,ct
+philadelphia,Health,poi+gsv,lpacrudepr,0.7590346392716738,0.7158044526799173,ct
+philadelphia,Health,poi+gsv,mhlthcrude,0.7067910073389108,0.6659786689475428,ct
+philadelphia,Health,poi+gsv,obesitycru,0.5850081049508076,0.5011658174602898,ct
+philadelphia,Health,poi+gsv,phlthcrude,0.7176507928627677,0.6588948933100802,ct
+philadelphia,Non-vehicle Travel,poi+gsv,publictrans_per_ct,0.7091444013723531,0.7027827554646813,ct
+philadelphia,Non-vehicle Travel,poi+gsv,walkbike_per_ct,0.7024178847077868,0.6511339189301574,ct
+philadelphia,Poverty,poi+gsv,logincome,0.704987234388631,0.670860858542017,ct
+philadelphia,Poverty,poi+gsv,povertyline_below100,0.641319890109752,0.588850508383125,ct
+philadelphia,Poverty,poi+gsv,povertyline_below200,0.713237970508908,0.6753005654679753,ct
+philadelphia,Vehicle Travel,poi+gsv,drove_alone_per_ct,0.7976678611551151,0.797604424344925,ct
+philadelphia,Vehicle Travel,poi+gsv,estpmiles,0.7776358343560673,0.7749129633010086,ct
+philadelphia,Vehicle Travel,poi+gsv,estptrp,0.5241976737181004,0.4709053318719306,ct
+philadelphia,Vehicle Travel,poi+gsv,estvmiles,0.812528488174482,0.7908808006625225,ct
+philadelphia,Vehicle Travel,poi+gsv,estvtrp,0.7998691198740449,0.7979808420328217,ct
+sanfrancisco,Crime,poi+gsv,logcrime,0.7514601614992987,0.5882899811862109,ct
+sanfrancisco,Crime,poi+gsv,logpetty,0.7605106037158679,0.5782236540652885,ct
+sanfrancisco,Health,poi+gsv,bphighcrud,0.40353857825913647,0.10962072982695843,ct
+sanfrancisco,Health,poi+gsv,cancercrud,0.5586281411465064,0.3031539544907871,ct
+sanfrancisco,Health,poi+gsv,diabetescr,0.5188152595176604,0.3473904562330433,ct
+sanfrancisco,Health,poi+gsv,lpacrudepr,0.6510482422598087,0.553216764268142,ct
+sanfrancisco,Health,poi+gsv,mhlthcrude,0.5832583497432615,0.4528540229320874,ct
+sanfrancisco,Health,poi+gsv,obesitycru,0.6923803435498528,0.6054786067454208,ct
+sanfrancisco,Health,poi+gsv,phlthcrude,0.5934807070255727,0.4729213772725199,ct
+sanfrancisco,Non-vehicle Travel,poi+gsv,publictrans_per_ct,0.7734355935274354,0.7295643727966732,ct
+sanfrancisco,Non-vehicle Travel,poi+gsv,walkbike_per_ct,0.8008282849719691,0.7178331270959399,ct
+sanfrancisco,Poverty,poi+gsv,logincome,0.554366446498867,0.42007374128241565,ct
+sanfrancisco,Poverty,poi+gsv,povertyline_below100,0.43360842128852706,0.31835545550657685,ct
+sanfrancisco,Poverty,poi+gsv,povertyline_below200,0.5396798188184989,0.44146535608183674,ct
+sanfrancisco,Vehicle Travel,poi+gsv,drove_alone_per_ct,0.8553187165812567,0.8376991328534841,ct
+sanfrancisco,Vehicle Travel,poi+gsv,estpmiles,0.6285036517755206,0.6004561184431301,ct
+sanfrancisco,Vehicle Travel,poi+gsv,estptrp,0.6096507769637631,0.5212867392661279,ct
+sanfrancisco,Vehicle Travel,poi+gsv,estvmiles,0.6778356851373917,0.6450740854052605,ct
+sanfrancisco,Vehicle Travel,poi+gsv,estvtrp,0.7154843886495186,0.6518214853940911,ct
+boston,Crime,pop,logcrime,0.2654339567837031,0.22975608759495322,ct
+boston,Crime,pop,logpetty,0.23368758916699378,0.21996648879887654,ct
+boston,Health,pop,bphighcrud,0.10939019735405853,0.06290729282562652,ct
+boston,Health,pop,cancercrud,0.43951383826223756,0.4056260318935275,ct
+boston,Health,pop,diabetescr,0.007234847970541414,-0.007040523047186853,ct
+boston,Health,pop,lpacrudepr,0.10033473251429328,0.08217542462776478,ct
+boston,Health,pop,mhlthcrude,0.2228787994671131,0.2195460453025345,ct
+boston,Health,pop,obesitycru,0.000262590185077094,-0.014428082181674306,ct
+boston,Health,pop,phlthcrude,0.037110912232599894,0.01448866450686016,ct
+boston,Non-vehicle Travel,pop,publictrans_per_ct,0.44691629357073603,0.40738427764255836,ct
+boston,Non-vehicle Travel,pop,walkbike_per_ct,0.34723799845203884,0.30405152953159376,ct
+boston,Poverty,pop,logincome,0.28654690932731175,0.2949622680278363,ct
+boston,Poverty,pop,povertyline_below100,0.3552650672613623,0.35402391471260664,ct
+boston,Poverty,pop,povertyline_below200,0.3766499036531977,0.37309313605557987,ct
+boston,Vehicle Travel,pop,drove_alone_per_ct,0.6030350946168559,0.5779218930667015,ct
+boston,Vehicle Travel,pop,estpmiles,0.7768137460817802,0.7899255155971581,ct
+boston,Vehicle Travel,pop,estptrp,0.4146871784940009,0.40158473296966574,ct
+boston,Vehicle Travel,pop,estvmiles,0.8582931913111844,0.8535962949303298,ct
+boston,Vehicle Travel,pop,estvtrp,0.7941147708441617,0.7849523096380469,ct
+chicago,Crime,pop,logcrime,0.1961536136554643,0.13953430228437455,ct
+chicago,Crime,pop,logpetty,0.4241991225114338,0.3352104934367771,ct
+chicago,Health,pop,bphighcrud,0.12377100683955593,0.11178569954039727,ct
+chicago,Health,pop,cancercrud,0.23704852405667398,0.23153350752975568,ct
+chicago,Health,pop,diabetescr,0.12143229983828725,0.11377782821368447,ct
+chicago,Health,pop,lpacrudepr,0.09837753796269469,0.0960515123570247,ct
+chicago,Health,pop,mhlthcrude,0.13432622446784165,0.13684634305795776,ct
+chicago,Health,pop,obesitycru,0.1055042650137612,0.1030756777446011,ct
+chicago,Health,pop,phlthcrude,0.09922909692420259,0.09733371686584563,ct
+chicago,Non-vehicle Travel,pop,publictrans_per_ct,0.5184811420925038,0.49544259520888767,ct
+chicago,Non-vehicle Travel,pop,walkbike_per_ct,0.24092752481405158,0.21872884053401576,ct
+chicago,Poverty,pop,logincome,0.1746019847652494,0.1787501606590584,ct
+chicago,Poverty,pop,povertyline_below100,0.21072092302607456,0.21687843136181506,ct
+chicago,Poverty,pop,povertyline_below200,0.20746431369602408,0.20654559918390145,ct
+chicago,Vehicle Travel,pop,drove_alone_per_ct,0.5618829815815766,0.5371888674482548,ct
+chicago,Vehicle Travel,pop,estpmiles,0.5493992752962611,0.5286931672070568,ct
+chicago,Vehicle Travel,pop,estptrp,0.3412783687018778,0.32041986624967367,ct
+chicago,Vehicle Travel,pop,estvmiles,0.5873064779153039,0.5684902993777523,ct
+chicago,Vehicle Travel,pop,estvtrp,0.5272218302472776,0.5223872334558559,ct
+losangeles,Crime,pop,logcrime,0.2582730079376109,0.26717573911453113,ct
+losangeles,Crime,pop,logpetty,0.47489311358036757,0.4945759058595594,ct
+losangeles,Health,pop,bphighcrud,0.0416791504736531,0.0364278201506064,ct
+losangeles,Health,pop,cancercrud,0.2455894717718309,0.23971214811057165,ct
+losangeles,Health,pop,diabetescr,0.07400799653904465,0.06318340189662203,ct
+losangeles,Health,pop,lpacrudepr,0.21454737589498998,0.2026143151264566,ct
+losangeles,Health,pop,mhlthcrude,0.2627252412710557,0.2366430240576111,ct
+losangeles,Health,pop,obesitycru,0.1433419612527528,0.12863602599205523,ct
+losangeles,Health,pop,phlthcrude,0.16701759739371433,0.14417070217185465,ct
+losangeles,Non-vehicle Travel,pop,publictrans_per_ct,0.2889732731960074,0.2696517834093438,ct
+losangeles,Non-vehicle Travel,pop,walkbike_per_ct,0.15639484121743102,0.09631514443199449,ct
+losangeles,Poverty,pop,logincome,0.3931748457358849,0.387301825963475,ct
+losangeles,Poverty,pop,povertyline_below100,0.2547423426066687,0.22288050222344324,ct
+losangeles,Poverty,pop,povertyline_below200,0.3210629398821695,0.3118202193384245,ct
+losangeles,Vehicle Travel,pop,drove_alone_per_ct,0.22230685935946917,0.22096418575641885,ct
+losangeles,Vehicle Travel,pop,estpmiles,0.4282319798193311,0.42561185962290493,ct
+losangeles,Vehicle Travel,pop,estptrp,0.14690607885811327,0.1623896672072981,ct
+losangeles,Vehicle Travel,pop,estvmiles,0.5149019271697312,0.5327284546652422,ct
+losangeles,Vehicle Travel,pop,estvtrp,0.42046577426073056,0.4195719256981582,ct
+miami,Crime,pop,logcrime,,,ct
+miami,Crime,pop,logpetty,,,ct
+miami,Health,pop,bphighcrud,0.17595306014233764,0.1839870116477493,ct
+miami,Health,pop,cancercrud,0.256738304223371,0.2887176579828864,ct
+miami,Health,pop,diabetescr,0.1262197076676988,0.12732209142669998,ct
+miami,Health,pop,lpacrudepr,0.1967810654990257,0.22421507054387374,ct
+miami,Health,pop,mhlthcrude,0.07420016214652742,0.08312804374270234,ct
+miami,Health,pop,obesitycru,0.15130340122761154,0.17707884432681026,ct
+miami,Health,pop,phlthcrude,0.10815459784855738,0.11503086973727764,ct
+miami,Non-vehicle Travel,pop,publictrans_per_ct,0.11036255736391665,0.126317347350735,ct
+miami,Non-vehicle Travel,pop,walkbike_per_ct,0.19256305538568871,0.20660798072275974,ct
+miami,Poverty,pop,logincome,0.1898592402100754,0.1837644594438885,ct
+miami,Poverty,pop,povertyline_below100,0.09225453321354742,0.07717614432593099,ct
+miami,Poverty,pop,povertyline_below200,0.16990451041065374,0.15230989139797213,ct
+miami,Vehicle Travel,pop,drove_alone_per_ct,0.11855380337643306,0.14379316133073744,ct
+miami,Vehicle Travel,pop,estpmiles,0.36194844701069573,0.3470298817615488,ct
+miami,Vehicle Travel,pop,estptrp,0.2603708749642538,0.2158273543689794,ct
+miami,Vehicle Travel,pop,estvmiles,0.3606771855033909,0.3474904498088021,ct
+miami,Vehicle Travel,pop,estvtrp,0.3009435736077809,0.2987851194474543,ct
+newyork,Crime,pop,logcrime,0.3153151695671673,0.31820172995084184,ct
+newyork,Crime,pop,logpetty,0.3321706634387792,0.34850586241010106,ct
+newyork,Health,pop,bphighcrud,0.030008115269488433,0.022629195881964027,ct
+newyork,Health,pop,cancercrud,0.2793435799313782,0.26687437101411066,ct
+newyork,Health,pop,diabetescr,0.08536499974660314,0.0833143958779459,ct
+newyork,Health,pop,lpacrudepr,0.12097307383083478,0.11640466848929039,ct
+newyork,Health,pop,mhlthcrude,0.12913261654370162,0.11607117061344537,ct
+newyork,Health,pop,obesitycru,0.02809604900674554,0.026343410591191142,ct
+newyork,Health,pop,phlthcrude,0.08320224879769238,0.0778227177783807,ct
+newyork,Non-vehicle Travel,pop,publictrans_per_ct,0.6607673612952414,0.6634698093107909,ct
+newyork,Non-vehicle Travel,pop,walkbike_per_ct,0.2589995975049041,0.23942681417179723,ct
+newyork,Poverty,pop,logincome,0.27516455300244286,0.26034096789841077,ct
+newyork,Poverty,pop,povertyline_below100,0.2316288039460806,0.22510860861981347,ct
+newyork,Poverty,pop,povertyline_below200,0.29498782035284216,0.2902182457391807,ct
+newyork,Vehicle Travel,pop,drove_alone_per_ct,0.705547504461322,0.7105053118907227,ct
+newyork,Vehicle Travel,pop,estpmiles,0.7406484738583444,0.7324041771808669,ct
+newyork,Vehicle Travel,pop,estptrp,0.27332422897624015,0.2736112322631505,ct
+newyork,Vehicle Travel,pop,estvmiles,0.830877621405814,0.8311690806677534,ct
+newyork,Vehicle Travel,pop,estvtrp,0.7701143163259568,0.75883505049973,ct
+philadelphia,Crime,pop,logcrime,0.26509111989140693,0.25644268893243855,ct
+philadelphia,Crime,pop,logpetty,0.5049932604827246,0.5312670458591731,ct
+philadelphia,Health,pop,bphighcrud,0.06180874004704971,0.05179163793787013,ct
+philadelphia,Health,pop,cancercrud,0.24811815689740654,0.25159408855463533,ct
+philadelphia,Health,pop,diabetescr,0.16486091706533823,0.16001979497433155,ct
+philadelphia,Health,pop,lpacrudepr,0.24290977207207015,0.2558024510296152,ct
+philadelphia,Health,pop,mhlthcrude,0.29433421082197037,0.3121079803864282,ct
+philadelphia,Health,pop,obesitycru,0.05934903321803644,0.06224403238582486,ct
+philadelphia,Health,pop,phlthcrude,0.19057015678678896,0.19647273065050577,ct
+philadelphia,Non-vehicle Travel,pop,publictrans_per_ct,0.4372309527413079,0.46278838679692,ct
+philadelphia,Non-vehicle Travel,pop,walkbike_per_ct,0.23952739695655753,0.21546577693172236,ct
+philadelphia,Poverty,pop,logincome,0.37269631692347416,0.3666801326339077,ct
+philadelphia,Poverty,pop,povertyline_below100,0.30202687332098666,0.31761533461343144,ct
+philadelphia,Poverty,pop,povertyline_below200,0.3483926589365713,0.36340003917040303,ct
+philadelphia,Vehicle Travel,pop,drove_alone_per_ct,0.46264028196131246,0.47637752863992605,ct
+philadelphia,Vehicle Travel,pop,estpmiles,0.7608656810042476,0.7748261251580348,ct
+philadelphia,Vehicle Travel,pop,estptrp,0.31788689347151716,0.33954121928912145,ct
+philadelphia,Vehicle Travel,pop,estvmiles,0.79832528566966,0.8011786902149062,ct
+philadelphia,Vehicle Travel,pop,estvtrp,0.6382207129819234,0.6547376169272725,ct
+sanfrancisco,Crime,pop,logcrime,0.41524972245757186,0.33644239797666936,ct
+sanfrancisco,Crime,pop,logpetty,0.5367778654049623,0.5187947213318915,ct
+sanfrancisco,Health,pop,bphighcrud,0.02694596171219721,-0.0021982745969586605,ct
+sanfrancisco,Health,pop,cancercrud,0.2640587821132592,0.19946516724245794,ct
+sanfrancisco,Health,pop,diabetescr,0.003621471737914794,-0.004820499162858105,ct
+sanfrancisco,Health,pop,lpacrudepr,0.07432645663906981,0.025919075349360887,ct
+sanfrancisco,Health,pop,mhlthcrude,0.08108385904149214,0.029945484138227663,ct
+sanfrancisco,Health,pop,obesitycru,0.021460789318379934,0.01469195176611473,ct
+sanfrancisco,Health,pop,phlthcrude,0.010059768592067541,-0.008874783317321,ct
+sanfrancisco,Non-vehicle Travel,pop,publictrans_per_ct,0.4094929740952319,0.4064341656334799,ct
+sanfrancisco,Non-vehicle Travel,pop,walkbike_per_ct,0.3305402635472029,0.3004601871517677,ct
+sanfrancisco,Poverty,pop,logincome,0.1487931793496727,0.12000612444385872,ct
+sanfrancisco,Poverty,pop,povertyline_below100,0.14619230303541111,0.11422431139163602,ct
+sanfrancisco,Poverty,pop,povertyline_below200,0.15152708972925405,0.12163439424434234,ct
+sanfrancisco,Vehicle Travel,pop,drove_alone_per_ct,0.45170978954482865,0.45545279510578923,ct
+sanfrancisco,Vehicle Travel,pop,estpmiles,0.5156488257611114,0.5210880329867201,ct
+sanfrancisco,Vehicle Travel,pop,estptrp,0.30034001844342073,0.2802095293929098,ct
+sanfrancisco,Vehicle Travel,pop,estvmiles,0.5831258705681942,0.5748076464110471,ct
+sanfrancisco,Vehicle Travel,pop,estvtrp,0.4720033852793836,0.4271248440556833,ct
+boston,Crime,core,logcrime,0.2659661558016477,0.17302361333376098,ct
+boston,Crime,core,logpetty,0.13374069204470404,0.08027341495859522,ct
+boston,Health,core,bphighcrud,0.6164412511689521,0.6219277026932933,ct
+boston,Health,core,cancercrud,0.8022788409606768,0.7939242017731344,ct
+boston,Health,core,diabetescr,0.5939874417029687,0.5981239857822309,ct
+boston,Health,core,lpacrudepr,0.5678186690942336,0.551489918195056,ct
+boston,Health,core,mhlthcrude,0.526114356778573,0.5235922686060845,ct
+boston,Health,core,obesitycru,0.47549364991167026,0.4818307466649866,ct
+boston,Health,core,phlthcrude,0.4685765856036319,0.4678250043033014,ct
+boston,Non-vehicle Travel,core,publictrans_per_ct,0.6278391359829703,0.6137913103095172,ct
+boston,Non-vehicle Travel,core,walkbike_per_ct,0.49800236243241514,0.46700727158488337,ct
+boston,Poverty,core,logincome,0.5186056142040121,0.4999247364121344,ct
+boston,Poverty,core,povertyline_below100,0.48133117036922035,0.4653276253476807,ct
+boston,Poverty,core,povertyline_below200,0.6029010065114944,0.5973467230133942,ct
+boston,Vehicle Travel,core,drove_alone_per_ct,0.7831590781697274,0.759265839715693,ct
+boston,Vehicle Travel,core,estpmiles,0.7719760463378847,0.783205467752994,ct
+boston,Vehicle Travel,core,estptrp,0.4131022112518174,0.40531817718177754,ct
+boston,Vehicle Travel,core,estvmiles,0.8496610282392092,0.8461492234916246,ct
+boston,Vehicle Travel,core,estvtrp,0.7902056633952108,0.7855960015674421,ct
+chicago,Crime,core,logcrime,0.5866817526207535,0.5694135420092987,ct
+chicago,Crime,core,logpetty,0.4077525882243789,0.36413315790627265,ct
+chicago,Health,core,bphighcrud,0.77587277703586,0.7705632772158584,ct
+chicago,Health,core,cancercrud,0.7814585949469388,0.7788523994571466,ct
+chicago,Health,core,diabetescr,0.7379919184805419,0.733906022108969,ct
+chicago,Health,core,lpacrudepr,0.5307065032293696,0.5269917503140314,ct
+chicago,Health,core,mhlthcrude,0.5357027609448795,0.5276003335947982,ct
+chicago,Health,core,obesitycru,0.6265953124199651,0.6224452192487984,ct
+chicago,Health,core,phlthcrude,0.5154252458641796,0.5114154449454373,ct
+chicago,Non-vehicle Travel,core,publictrans_per_ct,0.601772316137193,0.5807922180417144,ct
+chicago,Non-vehicle Travel,core,walkbike_per_ct,0.30399792378407703,0.27695765498681285,ct
+chicago,Poverty,core,logincome,0.5689319859605009,0.5658059404077449,ct
+chicago,Poverty,core,povertyline_below100,0.5462950465219013,0.5528927494702506,ct
+chicago,Poverty,core,povertyline_below200,0.5777165581161248,0.5747784226531865,ct
+chicago,Vehicle Travel,core,drove_alone_per_ct,0.6636636482941638,0.6383272722840244,ct
+chicago,Vehicle Travel,core,estpmiles,0.7023248129399293,0.6984105673076259,ct
+chicago,Vehicle Travel,core,estptrp,0.5045828453142226,0.4954644721492216,ct
+chicago,Vehicle Travel,core,estvmiles,0.7495897608424464,0.7473400685659902,ct
+chicago,Vehicle Travel,core,estvtrp,0.6976753466523127,0.6958298711415098,ct
+losangeles,Crime,core,logcrime,0.333151327088823,0.2962955235780226,ct
+losangeles,Crime,core,logpetty,0.13032677884716434,0.12317866155473375,ct
+losangeles,Health,core,bphighcrud,0.405634283028472,0.3723194292304138,ct
+losangeles,Health,core,cancercrud,0.796296567277955,0.7542039633881056,ct
+losangeles,Health,core,diabetescr,0.3264758617669702,0.315794818384446,ct
+losangeles,Health,core,lpacrudepr,0.40995887838819434,0.40169210910931064,ct
+losangeles,Health,core,mhlthcrude,0.48014717164054266,0.42223202382183567,ct
+losangeles,Health,core,obesitycru,0.2929569492595093,0.2666489202970462,ct
+losangeles,Health,core,phlthcrude,0.24754342867397536,0.21784348524778574,ct
+losangeles,Non-vehicle Travel,core,publictrans_per_ct,0.44812822880692593,0.4167650650430634,ct
+losangeles,Non-vehicle Travel,core,walkbike_per_ct,0.1167632526213227,0.05445476575778009,ct
+losangeles,Poverty,core,logincome,0.5172936987780381,0.483223162782093,ct
+losangeles,Poverty,core,povertyline_below100,0.34265761564788083,0.29204970855658335,ct
+losangeles,Poverty,core,povertyline_below200,0.4722695446292048,0.45981640069600854,ct
+losangeles,Vehicle Travel,core,drove_alone_per_ct,0.3112688978096466,0.31517456779489705,ct
+losangeles,Vehicle Travel,core,estpmiles,0.4474019719726364,0.4404771014911705,ct
+losangeles,Vehicle Travel,core,estptrp,0.2556242312681657,0.2621748272058366,ct
+losangeles,Vehicle Travel,core,estvmiles,0.5428947829870329,0.5477681310859316,ct
+losangeles,Vehicle Travel,core,estvtrp,0.473155982272589,0.4729466764099599,ct
+miami,Crime,core,logcrime,,,ct
+miami,Crime,core,logpetty,,,ct
+miami,Health,core,bphighcrud,0.7179822484974071,0.7275675006613915,ct
+miami,Health,core,cancercrud,0.899609541040404,0.9022639125073209,ct
+miami,Health,core,diabetescr,0.3909558450253843,0.3942476409668919,ct
+miami,Health,core,lpacrudepr,0.39462902271873807,0.4157872430791746,ct
+miami,Health,core,mhlthcrude,0.6454077054747551,0.638167188697302,ct
+miami,Health,core,obesitycru,0.6313283444460478,0.625137638377995,ct
+miami,Health,core,phlthcrude,0.30235837483908495,0.30142255539893104,ct
+miami,Non-vehicle Travel,core,publictrans_per_ct,0.4542456305058037,0.45447741439116623,ct
+miami,Non-vehicle Travel,core,walkbike_per_ct,0.16345190270298787,0.1734560183613878,ct
+miami,Poverty,core,logincome,0.36420408370552476,0.3342767108570691,ct
+miami,Poverty,core,povertyline_below100,0.30466094582570225,0.26036273650776043,ct
+miami,Poverty,core,povertyline_below200,0.3706909151052725,0.3393709466502948,ct
+miami,Vehicle Travel,core,drove_alone_per_ct,0.13426018843884496,0.15188343322805214,ct
+miami,Vehicle Travel,core,estpmiles,0.5603827529243567,0.5239832223702148,ct
+miami,Vehicle Travel,core,estptrp,0.4952323477213435,0.4575308263313854,ct
+miami,Vehicle Travel,core,estvmiles,0.5723782677200839,0.570364432084978,ct
+miami,Vehicle Travel,core,estvtrp,0.5068122987189969,0.4688511353798651,ct
+newyork,Crime,core,logcrime,0.2965537924675632,0.293352738861467,ct
+newyork,Crime,core,logpetty,0.12234024234656601,0.12636299679707924,ct
+newyork,Health,core,bphighcrud,0.5717220119255358,0.5546139746566026,ct
+newyork,Health,core,cancercrud,0.8047125486295235,0.8038843662885069,ct
+newyork,Health,core,diabetescr,0.6094922837287766,0.5977110469691655,ct
+newyork,Health,core,lpacrudepr,0.49059642662958164,0.4865591082162382,ct
+newyork,Health,core,mhlthcrude,0.37447862477027266,0.37008825342868096,ct
+newyork,Health,core,obesitycru,0.4608769591482864,0.45291927580092883,ct
+newyork,Health,core,phlthcrude,0.3138515098294322,0.2987415652513421,ct
+newyork,Non-vehicle Travel,core,publictrans_per_ct,0.7170324759644536,0.716325571101544,ct
+newyork,Non-vehicle Travel,core,walkbike_per_ct,0.3277150639717902,0.32620072418928886,ct
+newyork,Poverty,core,logincome,0.43306887857671506,0.4281132716308777,ct
+newyork,Poverty,core,povertyline_below100,0.32158803823244836,0.32163261912364866,ct
+newyork,Poverty,core,povertyline_below200,0.42239772538932296,0.4187891869241356,ct
+newyork,Vehicle Travel,core,drove_alone_per_ct,0.7672536969846495,0.7713206145859944,ct
+newyork,Vehicle Travel,core,estpmiles,0.7509657586545336,0.7421579415023054,ct
+newyork,Vehicle Travel,core,estptrp,0.37907600258627305,0.37117675810786116,ct
+newyork,Vehicle Travel,core,estvmiles,0.8349265085411176,0.8342035469993307,ct
+newyork,Vehicle Travel,core,estvtrp,0.7895946110023485,0.7770600325739413,ct
+philadelphia,Crime,core,logcrime,0.5940783400518326,0.563511131252658,ct
+philadelphia,Crime,core,logpetty,0.4631921922466131,0.42578271916806354,ct
+philadelphia,Health,core,bphighcrud,0.6817112483178724,0.6709153962327519,ct
+philadelphia,Health,core,cancercrud,0.8191476462796876,0.8195173225604799,ct
+philadelphia,Health,core,diabetescr,0.7182801785554368,0.7034663612652537,ct
+philadelphia,Health,core,lpacrudepr,0.6465590636430096,0.6378469872623826,ct
+philadelphia,Health,core,mhlthcrude,0.6101420272806622,0.5953361157921641,ct
+philadelphia,Health,core,obesitycru,0.6481438093179379,0.6250405576058303,ct
+philadelphia,Health,core,phlthcrude,0.5284974310247207,0.5123082342992229,ct
+philadelphia,Non-vehicle Travel,core,publictrans_per_ct,0.6831630734532212,0.6996639512877019,ct
+philadelphia,Non-vehicle Travel,core,walkbike_per_ct,0.4118443977005294,0.37264134526686854,ct
+philadelphia,Poverty,core,logincome,0.6090642905371754,0.610599222368066,ct
+philadelphia,Poverty,core,povertyline_below100,0.5667295056360044,0.5591331892039625,ct
+philadelphia,Poverty,core,povertyline_below200,0.640351372108181,0.638788061512708,ct
+philadelphia,Vehicle Travel,core,drove_alone_per_ct,0.6817102628426609,0.6966814479612685,ct
+philadelphia,Vehicle Travel,core,estpmiles,0.7977120781992115,0.8094302607049914,ct
+philadelphia,Vehicle Travel,core,estptrp,0.4116551542452159,0.44103129683792075,ct
+philadelphia,Vehicle Travel,core,estvmiles,0.837920000420894,0.8361881942649557,ct
+philadelphia,Vehicle Travel,core,estvtrp,0.7492875031236574,0.7629271172160619,ct
+sanfrancisco,Crime,core,logcrime,0.49119476376088445,0.41122815160141934,ct
+sanfrancisco,Crime,core,logpetty,0.4729604424005128,0.30019031701012544,ct
+sanfrancisco,Health,core,bphighcrud,0.42349081196026744,0.4027605514804975,ct
+sanfrancisco,Health,core,cancercrud,0.8125411023136184,0.7881509906360419,ct
+sanfrancisco,Health,core,diabetescr,0.4835550748537928,0.4792939918275361,ct
+sanfrancisco,Health,core,lpacrudepr,0.4424639092313011,0.42674509291881185,ct
+sanfrancisco,Health,core,mhlthcrude,0.36526240867890125,0.31991762349214153,ct
+sanfrancisco,Health,core,obesitycru,0.2959112676319289,0.2948378492318032,ct
+sanfrancisco,Health,core,phlthcrude,0.20917030534728256,0.1879956268177015,ct
+sanfrancisco,Non-vehicle Travel,core,publictrans_per_ct,0.6747406607358091,0.6897476969310693,ct
+sanfrancisco,Non-vehicle Travel,core,walkbike_per_ct,0.3950114065803443,0.3491013742710142,ct
+sanfrancisco,Poverty,core,logincome,0.3465375674314778,0.29113704783667893,ct
+sanfrancisco,Poverty,core,povertyline_below100,0.23629429040457817,0.1933052177130342,ct
+sanfrancisco,Poverty,core,povertyline_below200,0.3106536411284899,0.2590994975606815,ct
+sanfrancisco,Vehicle Travel,core,drove_alone_per_ct,0.7303884471175797,0.7252046510724681,ct
+sanfrancisco,Vehicle Travel,core,estpmiles,0.4841616179719292,0.48233833136761345,ct
+sanfrancisco,Vehicle Travel,core,estptrp,0.4074270608973948,0.3755412162976047,ct
+sanfrancisco,Vehicle Travel,core,estvmiles,0.5688584898432072,0.540987262332252,ct
+sanfrancisco,Vehicle Travel,core,estvtrp,0.5475711182894198,0.5017469554098144,ct
+boston,Crime,core+poi,logcrime,0.37869751779036004,0.30010592241916917,ct
+boston,Crime,core+poi,logpetty,0.4252541696486299,0.28574485384865556,ct
+boston,Health,core+poi,bphighcrud,0.6963903714812779,0.6683771626891152,ct
+boston,Health,core+poi,cancercrud,0.8490546249666346,0.8280011041683439,ct
+boston,Health,core+poi,diabetescr,0.6720247985857949,0.6451150715774967,ct
+boston,Health,core+poi,lpacrudepr,0.677029971129778,0.6358031990520301,ct
+boston,Health,core+poi,mhlthcrude,0.6331379655541947,0.6094862442736003,ct
+boston,Health,core+poi,obesitycru,0.6333965972621441,0.601513723567187,ct
+boston,Health,core+poi,phlthcrude,0.6101631559634273,0.578805559527591,ct
+boston,Non-vehicle Travel,core+poi,publictrans_per_ct,0.7131693155281743,0.6930106994117368,ct
+boston,Non-vehicle Travel,core+poi,walkbike_per_ct,0.6571619076859128,0.5926550767434124,ct
+boston,Poverty,core+poi,logincome,0.6491855071486631,0.6041518973497103,ct
+boston,Poverty,core+poi,povertyline_below100,0.5535863550373448,0.5016995391554379,ct
+boston,Poverty,core+poi,povertyline_below200,0.6731089522566462,0.6469486321088345,ct
+boston,Vehicle Travel,core+poi,drove_alone_per_ct,0.8514281546259275,0.8247305438745298,ct
+boston,Vehicle Travel,core+poi,estpmiles,0.8339574561120866,0.8267873152628014,ct
+boston,Vehicle Travel,core+poi,estptrp,0.5761022114431843,0.5410561660091592,ct
+boston,Vehicle Travel,core+poi,estvmiles,0.8805252091340179,0.8698537638173747,ct
+boston,Vehicle Travel,core+poi,estvtrp,0.8526629000022918,0.8381045051473114,ct
+chicago,Crime,core+poi,logcrime,0.7065378345416348,0.6489428195972469,ct
+chicago,Crime,core+poi,logpetty,0.682531266344726,0.6097129164514372,ct
+chicago,Health,core+poi,bphighcrud,0.8175599145296101,0.8068402023441956,ct
+chicago,Health,core+poi,cancercrud,0.8194263410341582,0.8103049917536547,ct
+chicago,Health,core+poi,diabetescr,0.8215083084379536,0.804134490336833,ct
+chicago,Health,core+poi,lpacrudepr,0.7324018867423153,0.7093696090765508,ct
+chicago,Health,core+poi,mhlthcrude,0.66865198816407,0.6512700614647908,ct
+chicago,Health,core+poi,obesitycru,0.7325421570156982,0.713526035894877,ct
+chicago,Health,core+poi,phlthcrude,0.6870426559073708,0.6648481707437456,ct
+chicago,Non-vehicle Travel,core+poi,publictrans_per_ct,0.7091381974556802,0.6834144041559049,ct
+chicago,Non-vehicle Travel,core+poi,walkbike_per_ct,0.46970065427469515,0.39799497986439286,ct
+chicago,Poverty,core+poi,logincome,0.6921764966042632,0.6800510703811068,ct
+chicago,Poverty,core+poi,povertyline_below100,0.5992398714748692,0.5908530231561719,ct
+chicago,Poverty,core+poi,povertyline_below200,0.6963775612881884,0.6853537484247084,ct
+chicago,Vehicle Travel,core+poi,drove_alone_per_ct,0.7492259597925723,0.7125619396764351,ct
+chicago,Vehicle Travel,core+poi,estpmiles,0.7374380553152843,0.721566160057057,ct
+chicago,Vehicle Travel,core+poi,estptrp,0.5934263932542598,0.5613638453950311,ct
+chicago,Vehicle Travel,core+poi,estvmiles,0.7809043866595413,0.7669367095800372,ct
+chicago,Vehicle Travel,core+poi,estvtrp,0.7550417202721321,0.7327216486365737,ct
+losangeles,Crime,core+poi,logcrime,0.5418772036728461,0.4404774367950689,ct
+losangeles,Crime,core+poi,logpetty,0.5284613259787099,0.5126861120866806,ct
+losangeles,Health,core+poi,bphighcrud,0.5110565756561571,0.47177504566424544,ct
+losangeles,Health,core+poi,cancercrud,0.8351683391315229,0.7446653827846694,ct
+losangeles,Health,core+poi,diabetescr,0.5908586646505494,0.5524623771818042,ct
+losangeles,Health,core+poi,lpacrudepr,0.6873342253808373,0.5784125114338508,ct
+losangeles,Health,core+poi,mhlthcrude,0.6182889981112532,0.3184050543155795,ct
+losangeles,Health,core+poi,obesitycru,0.5681318481035198,0.5011280258869607,ct
+losangeles,Health,core+poi,phlthcrude,0.5333916843943719,0.3426839945525286,ct
+losangeles,Non-vehicle Travel,core+poi,publictrans_per_ct,0.4855882210478438,0.4374563490641248,ct
+losangeles,Non-vehicle Travel,core+poi,walkbike_per_ct,0.17349679043998847,0.1257011844794882,ct
+losangeles,Poverty,core+poi,logincome,0.6383223209203536,0.40620849428914463,ct
+losangeles,Poverty,core+poi,povertyline_below100,0.41175799176443145,0.3316043928292746,ct
+losangeles,Poverty,core+poi,povertyline_below200,0.601588570672879,0.39271380925536975,ct
+losangeles,Vehicle Travel,core+poi,drove_alone_per_ct,0.36470720131457346,0.35591602241977555,ct
+losangeles,Vehicle Travel,core+poi,estpmiles,0.6003218331971221,0.5860754630421264,ct
+losangeles,Vehicle Travel,core+poi,estptrp,0.5127872785560237,0.19995935440926677,ct
+losangeles,Vehicle Travel,core+poi,estvmiles,0.6454426247902152,0.6434469038137094,ct
+losangeles,Vehicle Travel,core+poi,estvtrp,0.6155158462025152,0.13497703821262558,ct
+miami,Crime,core+poi,logcrime,,,ct
+miami,Crime,core+poi,logpetty,,,ct
+miami,Health,core+poi,bphighcrud,0.7850794001378893,0.7791368536679432,ct
+miami,Health,core+poi,cancercrud,0.9088768904183512,0.9061548508152928,ct
+miami,Health,core+poi,diabetescr,0.609223481276171,0.5897599015508131,ct
+miami,Health,core+poi,lpacrudepr,0.6485510377169914,0.6370244499072799,ct
+miami,Health,core+poi,mhlthcrude,0.745583116119269,0.7120858998306877,ct
+miami,Health,core+poi,obesitycru,0.7453027520637979,0.7301772212615292,ct
+miami,Health,core+poi,phlthcrude,0.5524344011633231,0.5202367001779544,ct
+miami,Non-vehicle Travel,core+poi,publictrans_per_ct,0.4896430957892627,0.46446035312248724,ct
+miami,Non-vehicle Travel,core+poi,walkbike_per_ct,0.3562668683728921,0.28513907734993776,ct
+miami,Poverty,core+poi,logincome,0.568453109208521,0.5155353975074211,ct
+miami,Poverty,core+poi,povertyline_below100,0.4598472318290015,0.37850135814662184,ct
+miami,Poverty,core+poi,povertyline_below200,0.5705309257069839,0.520560738172044,ct
+miami,Vehicle Travel,core+poi,drove_alone_per_ct,0.28669789934884643,0.24376228333060493,ct
+miami,Vehicle Travel,core+poi,estpmiles,0.6971157800910064,0.6405170425422132,ct
+miami,Vehicle Travel,core+poi,estptrp,0.6655499653648328,0.6174964667467551,ct
+miami,Vehicle Travel,core+poi,estvmiles,0.6876532239436534,0.6865272131905819,ct
+miami,Vehicle Travel,core+poi,estvtrp,0.6613824660332976,0.6209609346029266,ct
+newyork,Crime,core+poi,logcrime,0.48655551785707934,0.4624201134859437,ct
+newyork,Crime,core+poi,logpetty,0.4175428379889287,0.4107453619241107,ct
+newyork,Health,core+poi,bphighcrud,0.6509532608734794,0.6257419752096849,ct
+newyork,Health,core+poi,cancercrud,0.8273765435205686,0.809545934669605,ct
+newyork,Health,core+poi,diabetescr,0.6661784214928617,0.6499006078511036,ct
+newyork,Health,core+poi,lpacrudepr,0.5921349166839323,0.5238564658235677,ct
+newyork,Health,core+poi,mhlthcrude,0.4809381020927643,0.2946734864218502,ct
+newyork,Health,core+poi,obesitycru,0.5720204460955345,0.5544246710471767,ct
+newyork,Health,core+poi,phlthcrude,0.4367896971212201,0.14524318568462283,ct
+newyork,Non-vehicle Travel,core+poi,publictrans_per_ct,0.795629370267149,0.7897201043568532,ct
+newyork,Non-vehicle Travel,core+poi,walkbike_per_ct,0.3884722634321083,0.37405141611766274,ct
+newyork,Poverty,core+poi,logincome,0.5447498757271786,0.5245075127939474,ct
+newyork,Poverty,core+poi,povertyline_below100,0.4043981773992087,0.39152922403883467,ct
+newyork,Poverty,core+poi,povertyline_below200,0.5158485694273255,0.5038637650546743,ct
+newyork,Vehicle Travel,core+poi,drove_alone_per_ct,0.8134176082595606,0.8127911846833872,ct
+newyork,Vehicle Travel,core+poi,estpmiles,0.791224349070671,0.7774715790260489,ct
+newyork,Vehicle Travel,core+poi,estptrp,0.4561463260647064,0.40463075215709166,ct
+newyork,Vehicle Travel,core+poi,estvmiles,0.8619514850178355,0.8586687105438593,ct
+newyork,Vehicle Travel,core+poi,estvtrp,0.8323095492215744,0.8114113380439584,ct
+philadelphia,Crime,core+poi,logcrime,0.7266087298846579,0.6675921083832244,ct
+philadelphia,Crime,core+poi,logpetty,0.7523646950925321,0.7003843810756673,ct
+philadelphia,Health,core+poi,bphighcrud,0.738287775475466,0.7161247288884074,ct
+philadelphia,Health,core+poi,cancercrud,0.8416944137459768,0.8340898601836934,ct
+philadelphia,Health,core+poi,diabetescr,0.7731369823184748,0.749655808429378,ct
+philadelphia,Health,core+poi,lpacrudepr,0.7455352099740049,0.7219799254688356,ct
+philadelphia,Health,core+poi,mhlthcrude,0.7020348257302689,0.664295061914341,ct
+philadelphia,Health,core+poi,obesitycru,0.7103575623044701,0.6805341704282127,ct
+philadelphia,Health,core+poi,phlthcrude,0.657815533974944,0.6234481316723113,ct
+philadelphia,Non-vehicle Travel,core+poi,publictrans_per_ct,0.7142142021932169,0.7278800107516514,ct
+philadelphia,Non-vehicle Travel,core+poi,walkbike_per_ct,0.561353819052859,0.49772694844737264,ct
+philadelphia,Poverty,core+poi,logincome,0.7031743666422176,0.6903205615653467,ct
+philadelphia,Poverty,core+poi,povertyline_below100,0.6140526979054238,0.5786920930102049,ct
+philadelphia,Poverty,core+poi,povertyline_below200,0.7097901210169769,0.6849097385106642,ct
+philadelphia,Vehicle Travel,core+poi,drove_alone_per_ct,0.7543136446867069,0.7550429263502445,ct
+philadelphia,Vehicle Travel,core+poi,estpmiles,0.8361678039550242,0.8346381801308507,ct
+philadelphia,Vehicle Travel,core+poi,estptrp,0.5335637588661082,0.517261656948783,ct
+philadelphia,Vehicle Travel,core+poi,estvmiles,0.8652728649258348,0.8542540076175001,ct
+philadelphia,Vehicle Travel,core+poi,estvtrp,0.8109368869161646,0.8085334294905598,ct
+sanfrancisco,Crime,core+poi,logcrime,0.719828590728818,0.569219942168425,ct
+sanfrancisco,Crime,core+poi,logpetty,0.7101462972826698,0.5837034739637388,ct
+sanfrancisco,Health,core+poi,bphighcrud,0.5438365724976131,0.3470651920397158,ct
+sanfrancisco,Health,core+poi,cancercrud,0.8494503706293545,0.7516499554956054,ct
+sanfrancisco,Health,core+poi,diabetescr,0.612918310090001,0.5154732326952001,ct
+sanfrancisco,Health,core+poi,lpacrudepr,0.6006773043209833,0.5298293894870525,ct
+sanfrancisco,Health,core+poi,mhlthcrude,0.5284649804239397,0.43210527169775803,ct
+sanfrancisco,Health,core+poi,obesitycru,0.5263165511626186,0.47509758771359173,ct
+sanfrancisco,Health,core+poi,phlthcrude,0.440115859043524,0.33769591704021173,ct
+sanfrancisco,Non-vehicle Travel,core+poi,publictrans_per_ct,0.7598335807343145,0.7451535391456481,ct
+sanfrancisco,Non-vehicle Travel,core+poi,walkbike_per_ct,0.6844898529332981,0.5849173675105465,ct
+sanfrancisco,Poverty,core+poi,logincome,0.5082882159615623,0.39867280848452413,ct
+sanfrancisco,Poverty,core+poi,povertyline_below100,0.368008689343811,0.2617103563732783,ct
+sanfrancisco,Poverty,core+poi,povertyline_below200,0.44859540120384783,0.3629933092721676,ct
+sanfrancisco,Vehicle Travel,core+poi,drove_alone_per_ct,0.8116857716688124,0.7790619501175358,ct
+sanfrancisco,Vehicle Travel,core+poi,estpmiles,0.6160673254487563,0.5767943118293963,ct
+sanfrancisco,Vehicle Travel,core+poi,estptrp,0.5513252191184008,0.4997451040317194,ct
+sanfrancisco,Vehicle Travel,core+poi,estvmiles,0.6699709179807767,0.6383447523129476,ct
+sanfrancisco,Vehicle Travel,core+poi,estvtrp,0.6579220715876785,0.5992600498256775,ct
+boston,Crime,core+gsv,logcrime,0.4967609413783533,0.3477746062561799,ct
+boston,Crime,core+gsv,logpetty,0.42029455047107306,0.24577015584896716,ct
+boston,Health,core+gsv,bphighcrud,0.6950552219965769,0.674405709350095,ct
+boston,Health,core+gsv,cancercrud,0.8512366899635404,0.8350298522887692,ct
+boston,Health,core+gsv,diabetescr,0.6899135659784861,0.6751084651835672,ct
+boston,Health,core+gsv,lpacrudepr,0.7316234360555665,0.6995173365821151,ct
+boston,Health,core+gsv,mhlthcrude,0.641225944318095,0.6174942588372399,ct
+boston,Health,core+gsv,obesitycru,0.6165369748311816,0.5722169155272259,ct
+boston,Health,core+gsv,phlthcrude,0.6287040052526154,0.6053847259611074,ct
+boston,Non-vehicle Travel,core+gsv,publictrans_per_ct,0.7303204001282271,0.6906650299309411,ct
+boston,Non-vehicle Travel,core+gsv,walkbike_per_ct,0.7967745908835415,0.7622008533693096,ct
+boston,Poverty,core+gsv,logincome,0.6782671784673969,0.6343353795536479,ct
+boston,Poverty,core+gsv,povertyline_below100,0.5665101770434811,0.5254306640038634,ct
+boston,Poverty,core+gsv,povertyline_below200,0.7048883076950248,0.6808353171574966,ct
+boston,Vehicle Travel,core+gsv,drove_alone_per_ct,0.8575554803861806,0.8255650337456704,ct
+boston,Vehicle Travel,core+gsv,estpmiles,0.8426385149718678,0.8346066327123418,ct
+boston,Vehicle Travel,core+gsv,estptrp,0.5932551337864614,0.5442142896253955,ct
+boston,Vehicle Travel,core+gsv,estvmiles,0.8852437033930158,0.87628046163506,ct
+boston,Vehicle Travel,core+gsv,estvtrp,0.8626424709723814,0.8435893570939357,ct
+chicago,Crime,core+gsv,logcrime,0.7210552895323883,0.6694978143660391,ct
+chicago,Crime,core+gsv,logpetty,0.6403746969638052,0.5655753557883736,ct
+chicago,Health,core+gsv,bphighcrud,0.8270763234888252,0.8157778027355507,ct
+chicago,Health,core+gsv,cancercrud,0.8337610457136903,0.8315467477887646,ct
+chicago,Health,core+gsv,diabetescr,0.8150665252907652,0.7964161177442053,ct
+chicago,Health,core+gsv,lpacrudepr,0.7073583383380576,0.6833454063999007,ct
+chicago,Health,core+gsv,mhlthcrude,0.6513889743317718,0.6291959128948856,ct
+chicago,Health,core+gsv,obesitycru,0.7338105540955009,0.7129779168612573,ct
+chicago,Health,core+gsv,phlthcrude,0.6702423727629443,0.6474016300519672,ct
+chicago,Non-vehicle Travel,core+gsv,publictrans_per_ct,0.7320468437348906,0.7082026356308389,ct
+chicago,Non-vehicle Travel,core+gsv,walkbike_per_ct,0.482663720092016,0.42618881045349133,ct
+chicago,Poverty,core+gsv,logincome,0.6865835237044959,0.6713992986209975,ct
+chicago,Poverty,core+gsv,povertyline_below100,0.6164729616197409,0.5962701116023563,ct
+chicago,Poverty,core+gsv,povertyline_below200,0.6796282705172565,0.6575260128422817,ct
+chicago,Vehicle Travel,core+gsv,drove_alone_per_ct,0.8149972929651582,0.7904159771813359,ct
+chicago,Vehicle Travel,core+gsv,estpmiles,0.7550507010524568,0.7462622383356518,ct
+chicago,Vehicle Travel,core+gsv,estptrp,0.6442893879269527,0.6201559612015877,ct
+chicago,Vehicle Travel,core+gsv,estvmiles,0.7937653295559446,0.7756140856029192,ct
+chicago,Vehicle Travel,core+gsv,estvtrp,0.7899996373506497,0.7774812382399211,ct
+losangeles,Crime,core+gsv,logcrime,0.5523398418425931,0.511246309010924,ct
+losangeles,Crime,core+gsv,logpetty,0.3978100674057241,0.31244830163408893,ct
+losangeles,Health,core+gsv,bphighcrud,0.5448850616626814,0.5051261449674189,ct
+losangeles,Health,core+gsv,cancercrud,0.8370144667274223,0.7959832739782395,ct
+losangeles,Health,core+gsv,diabetescr,0.6460513893831387,0.6204447778768953,ct
+losangeles,Health,core+gsv,lpacrudepr,0.7219191232392033,0.710560490703054,ct
+losangeles,Health,core+gsv,mhlthcrude,0.6736171307788713,0.6261071692069332,ct
+losangeles,Health,core+gsv,obesitycru,0.5772858711179198,0.5447945910730816,ct
+losangeles,Health,core+gsv,phlthcrude,0.6046842884559791,0.570553201224852,ct
+losangeles,Non-vehicle Travel,core+gsv,publictrans_per_ct,0.5785423532798452,0.5342657856508438,ct
+losangeles,Non-vehicle Travel,core+gsv,walkbike_per_ct,0.2544901608050463,0.17068448119471138,ct
+losangeles,Poverty,core+gsv,logincome,0.6591760554515457,0.621054003164258,ct
+losangeles,Poverty,core+gsv,povertyline_below100,0.4782788598355513,0.4110619130823049,ct
+losangeles,Poverty,core+gsv,povertyline_below200,0.65217198007871,0.6209950062762228,ct
+losangeles,Vehicle Travel,core+gsv,drove_alone_per_ct,0.49151738646347665,0.47959374024497003,ct
+losangeles,Vehicle Travel,core+gsv,estpmiles,0.589592830273039,0.5744245252311737,ct
+losangeles,Vehicle Travel,core+gsv,estptrp,0.5570275716756389,0.5415749840367668,ct
+losangeles,Vehicle Travel,core+gsv,estvmiles,0.6394014073049431,0.6287991368935048,ct
+losangeles,Vehicle Travel,core+gsv,estvtrp,0.6485385033626537,0.6204916665954626,ct
+miami,Crime,core+gsv,logcrime,,,ct
+miami,Crime,core+gsv,logpetty,,,ct
+miami,Health,core+gsv,bphighcrud,0.815363281425085,0.8096819524606813,ct
+miami,Health,core+gsv,cancercrud,0.9090941386383171,0.9088785417363514,ct
+miami,Health,core+gsv,diabetescr,0.702178456969454,0.6901131541016803,ct
+miami,Health,core+gsv,lpacrudepr,0.7409619663648652,0.7379221150329716,ct
+miami,Health,core+gsv,mhlthcrude,0.7627341478423076,0.7445845233962098,ct
+miami,Health,core+gsv,obesitycru,0.8007910695191074,0.7809314647883849,ct
+miami,Health,core+gsv,phlthcrude,0.6399338436640993,0.6251905612963402,ct
+miami,Non-vehicle Travel,core+gsv,publictrans_per_ct,0.5578328911407353,0.5382078589055591,ct
+miami,Non-vehicle Travel,core+gsv,walkbike_per_ct,0.47409618944853993,0.41391428081712817,ct
+miami,Poverty,core+gsv,logincome,0.653863979771886,0.6331849119446944,ct
+miami,Poverty,core+gsv,povertyline_below100,0.5037309677947238,0.43221848317241884,ct
+miami,Poverty,core+gsv,povertyline_below200,0.6500542077665521,0.612497172929349,ct
+miami,Vehicle Travel,core+gsv,drove_alone_per_ct,0.41021459026163115,0.39381367266185585,ct
+miami,Vehicle Travel,core+gsv,estpmiles,0.6961614874386111,0.6451401219718415,ct
+miami,Vehicle Travel,core+gsv,estptrp,0.6896148326073867,0.6497816563155181,ct
+miami,Vehicle Travel,core+gsv,estvmiles,0.6908543722824805,0.6922637565638641,ct
+miami,Vehicle Travel,core+gsv,estvtrp,0.6849443915412857,0.643106169773912,ct
+newyork,Crime,core+gsv,logcrime,0.4869670515096325,0.4537468155542328,ct
+newyork,Crime,core+gsv,logpetty,0.39286191850582386,0.38678976283368005,ct
+newyork,Health,core+gsv,bphighcrud,0.6264897488725517,0.6080465558326275,ct
+newyork,Health,core+gsv,cancercrud,0.8364433767065569,0.8309510130315829,ct
+newyork,Health,core+gsv,diabetescr,0.6856826062218935,0.665620390169217,ct
+newyork,Health,core+gsv,lpacrudepr,0.6417814814289586,0.6233379984322489,ct
+newyork,Health,core+gsv,mhlthcrude,0.49058558063744045,0.4704834994905984,ct
+newyork,Health,core+gsv,obesitycru,0.569782064981541,0.5467641627288773,ct
+newyork,Health,core+gsv,phlthcrude,0.4685565088520418,0.44077329170941815,ct
+newyork,Non-vehicle Travel,core+gsv,publictrans_per_ct,0.8475840697577823,0.8457771572080673,ct
+newyork,Non-vehicle Travel,core+gsv,walkbike_per_ct,0.5494630278750632,0.5174842831672628,ct
+newyork,Poverty,core+gsv,logincome,0.5869927251429017,0.5751099466830862,ct
+newyork,Poverty,core+gsv,povertyline_below100,0.456473875354504,0.43354669422718556,ct
+newyork,Poverty,core+gsv,povertyline_below200,0.5514931768808156,0.5328556043406343,ct
+newyork,Vehicle Travel,core+gsv,drove_alone_per_ct,0.8962030335504579,0.8916512483362802,ct
+newyork,Vehicle Travel,core+gsv,estpmiles,0.8119411015579328,0.8019691034914116,ct
+newyork,Vehicle Travel,core+gsv,estptrp,0.5585633773209323,0.5357818378407498,ct
+newyork,Vehicle Travel,core+gsv,estvmiles,0.8681011349868741,0.8681341381290502,ct
+newyork,Vehicle Travel,core+gsv,estvtrp,0.8797178080824543,0.8706547750252408,ct
+philadelphia,Crime,core+gsv,logcrime,0.8325631538625242,0.7858710721217905,ct
+philadelphia,Crime,core+gsv,logpetty,0.6743427762786703,0.5675333503597559,ct
+philadelphia,Health,core+gsv,bphighcrud,0.7558390904100553,0.7248664872701773,ct
+philadelphia,Health,core+gsv,cancercrud,0.8584193483485162,0.8438320223289993,ct
+philadelphia,Health,core+gsv,diabetescr,0.801105598483899,0.7725543974383166,ct
+philadelphia,Health,core+gsv,lpacrudepr,0.8140890383551607,0.7906945296355262,ct
+philadelphia,Health,core+gsv,mhlthcrude,0.7478545789065182,0.7143732867096618,ct
+philadelphia,Health,core+gsv,obesitycru,0.7277903251712825,0.6847515851029795,ct
+philadelphia,Health,core+gsv,phlthcrude,0.7369920128768951,0.6997217822985539,ct
+philadelphia,Non-vehicle Travel,core+gsv,publictrans_per_ct,0.7434619011304362,0.7512712445800995,ct
+philadelphia,Non-vehicle Travel,core+gsv,walkbike_per_ct,0.6737986272709765,0.6331861631738606,ct
+philadelphia,Poverty,core+gsv,logincome,0.7331111388101051,0.7132940597286024,ct
+philadelphia,Poverty,core+gsv,povertyline_below100,0.6654648474752044,0.6413159013489198,ct
+philadelphia,Poverty,core+gsv,povertyline_below200,0.7508324256420801,0.7305807346477275,ct
+philadelphia,Vehicle Travel,core+gsv,drove_alone_per_ct,0.8037856625225095,0.8192634969073517,ct
+philadelphia,Vehicle Travel,core+gsv,estpmiles,0.8332429717574474,0.8367743025356218,ct
+philadelphia,Vehicle Travel,core+gsv,estptrp,0.600136751692677,0.5924452072054517,ct
+philadelphia,Vehicle Travel,core+gsv,estvmiles,0.8627197840999621,0.850600005096851,ct
+philadelphia,Vehicle Travel,core+gsv,estvtrp,0.8291866252227489,0.8347615684302003,ct
+sanfrancisco,Crime,core+gsv,logcrime,0.6774482311188235,0.5082068432696849,ct
+sanfrancisco,Crime,core+gsv,logpetty,0.7039121458838001,0.5417346212317098,ct
+sanfrancisco,Health,core+gsv,bphighcrud,0.6412999793282138,0.5912032500731639,ct
+sanfrancisco,Health,core+gsv,cancercrud,0.8661998007873473,0.8334272881635492,ct
+sanfrancisco,Health,core+gsv,diabetescr,0.698913932507309,0.6538424379474101,ct
+sanfrancisco,Health,core+gsv,lpacrudepr,0.7081126065987641,0.6560035891269055,ct
+sanfrancisco,Health,core+gsv,mhlthcrude,0.6294887814237652,0.5625682283826084,ct
+sanfrancisco,Health,core+gsv,obesitycru,0.6501110301145981,0.6057930681781338,ct
+sanfrancisco,Health,core+gsv,phlthcrude,0.5942984016651194,0.5196299846083434,ct
+sanfrancisco,Non-vehicle Travel,core+gsv,publictrans_per_ct,0.7604344450635283,0.7317639656842305,ct
+sanfrancisco,Non-vehicle Travel,core+gsv,walkbike_per_ct,0.7861342325939555,0.7025700052177681,ct
+sanfrancisco,Poverty,core+gsv,logincome,0.6109375807341993,0.5173379765939747,ct
+sanfrancisco,Poverty,core+gsv,povertyline_below100,0.47952686293839397,0.42350800968164365,ct
+sanfrancisco,Poverty,core+gsv,povertyline_below200,0.6027940956439884,0.5344602881453029,ct
+sanfrancisco,Vehicle Travel,core+gsv,drove_alone_per_ct,0.8561591123305939,0.8428474022040945,ct
+sanfrancisco,Vehicle Travel,core+gsv,estpmiles,0.6577548884518704,0.6195793983062193,ct
+sanfrancisco,Vehicle Travel,core+gsv,estptrp,0.6039331341728762,0.5531064722282323,ct
+sanfrancisco,Vehicle Travel,core+gsv,estvmiles,0.717198913065958,0.6904477747045875,ct
+sanfrancisco,Vehicle Travel,core+gsv,estvtrp,0.7185755169400283,0.6566538339602058,ct
+boston,Crime,core+poi+gsv,logcrime,0.4442309227258156,0.32689368504268324,ct
+boston,Crime,core+poi+gsv,logpetty,0.4926607390079282,0.3136791240542888,ct
+boston,Health,core+poi+gsv,bphighcrud,0.7211873632400304,0.69027731134529,ct
+boston,Health,core+poi+gsv,cancercrud,0.8728589004596914,0.8476083505813085,ct
+boston,Health,core+poi+gsv,diabetescr,0.7183998000302145,0.6943646740313268,ct
+boston,Health,core+poi+gsv,lpacrudepr,0.7635799965692049,0.7229232279974356,ct
+boston,Health,core+poi+gsv,mhlthcrude,0.6826632523590981,0.6418709305414315,ct
+boston,Health,core+poi+gsv,obesitycru,0.6743538184391416,0.6218074895706637,ct
+boston,Health,core+poi+gsv,phlthcrude,0.6696101942545889,0.6396450191523722,ct
+boston,Non-vehicle Travel,core+poi+gsv,publictrans_per_ct,0.7923668233167772,0.7394340316552213,ct
+boston,Non-vehicle Travel,core+poi+gsv,walkbike_per_ct,0.8197044580408509,0.7765739888457527,ct
+boston,Poverty,core+poi+gsv,logincome,0.7123807533165794,0.651965718299554,ct
+boston,Poverty,core+poi+gsv,povertyline_below100,0.6061233571700618,0.5481625120774517,ct
+boston,Poverty,core+poi+gsv,povertyline_below200,0.7240103042755144,0.6940621661917883,ct
+boston,Vehicle Travel,core+poi+gsv,drove_alone_per_ct,0.8893454691243499,0.8613026196723572,ct
+boston,Vehicle Travel,core+poi+gsv,estpmiles,0.858747412874763,0.8442887187109948,ct
+boston,Vehicle Travel,core+poi+gsv,estptrp,0.6313435323848885,0.57423853103855,ct
+boston,Vehicle Travel,core+poi+gsv,estvmiles,0.8917024224276833,0.8791088721316532,ct
+boston,Vehicle Travel,core+poi+gsv,estvtrp,0.8797430095038472,0.8564424070076783,ct
+chicago,Crime,core+poi+gsv,logcrime,0.7487551254062541,0.6842807903086054,ct
+chicago,Crime,core+poi+gsv,logpetty,0.7223126043994544,0.6411876365672017,ct
+chicago,Health,core+poi+gsv,bphighcrud,0.8443659474949465,0.8284960098967961,ct
+chicago,Health,core+poi+gsv,cancercrud,0.8442133679101198,0.8370835772912892,ct
+chicago,Health,core+poi+gsv,diabetescr,0.8440851690571423,0.8194223395707467,ct
+chicago,Health,core+poi+gsv,lpacrudepr,0.7788012766225118,0.7455541722959387,ct
+chicago,Health,core+poi+gsv,mhlthcrude,0.7158749120181904,0.6862216385782783,ct
+chicago,Health,core+poi+gsv,obesitycru,0.7796341894006036,0.753313355178584,ct
+chicago,Health,core+poi+gsv,phlthcrude,0.7329218121162582,0.7007095070856889,ct
+chicago,Non-vehicle Travel,core+poi+gsv,publictrans_per_ct,0.7688835944191852,0.7402699544176249,ct
+chicago,Non-vehicle Travel,core+poi+gsv,walkbike_per_ct,0.5341757862081744,0.4594606808837719,ct
+chicago,Poverty,core+poi+gsv,logincome,0.7408305246729323,0.7242219013460443,ct
+chicago,Poverty,core+poi+gsv,povertyline_below100,0.6451948062069922,0.6271573320080519,ct
+chicago,Poverty,core+poi+gsv,povertyline_below200,0.7343092144430053,0.7132149080596661,ct
+chicago,Vehicle Travel,core+poi+gsv,drove_alone_per_ct,0.8257696045524057,0.8000138224308296,ct
+chicago,Vehicle Travel,core+poi+gsv,estpmiles,0.7721182226462496,0.7530546675082512,ct
+chicago,Vehicle Travel,core+poi+gsv,estptrp,0.6663645946916428,0.6296538067876414,ct
+chicago,Vehicle Travel,core+poi+gsv,estvmiles,0.8095824984672056,0.7832555929897592,ct
+chicago,Vehicle Travel,core+poi+gsv,estvtrp,0.807129719345328,0.7847794365891538,ct
+losangeles,Crime,core+poi+gsv,logcrime,0.6265209531032246,0.5795698346153079,ct
+losangeles,Crime,core+poi+gsv,logpetty,0.5566682992039789,0.5237706238246655,ct
+losangeles,Health,core+poi+gsv,bphighcrud,0.5784037212745934,0.5287262979062571,ct
+losangeles,Health,core+poi+gsv,cancercrud,0.8501118524787137,0.7667615410199717,ct
+losangeles,Health,core+poi+gsv,diabetescr,0.6859792773696329,0.6567484494450703,ct
+losangeles,Health,core+poi+gsv,lpacrudepr,0.7713046959734476,0.7134169016170169,ct
+losangeles,Health,core+poi+gsv,mhlthcrude,0.6966852176660911,0.5576780217263257,ct
+losangeles,Health,core+poi+gsv,obesitycru,0.6488377939935515,0.6162201387391509,ct
+losangeles,Health,core+poi+gsv,phlthcrude,0.6482248344314022,0.5398424379832145,ct
+losangeles,Non-vehicle Travel,core+poi+gsv,publictrans_per_ct,0.6062355033519954,0.5455690229407479,ct
+losangeles,Non-vehicle Travel,core+poi+gsv,walkbike_per_ct,0.21894233804805469,0.1271048436011366,ct
+losangeles,Poverty,core+poi+gsv,logincome,0.6840042020655692,0.5251805496737023,ct
+losangeles,Poverty,core+poi+gsv,povertyline_below100,0.49405506136887756,0.40833706543540993,ct
+losangeles,Poverty,core+poi+gsv,povertyline_below200,0.6664849042167067,0.4866170642304771,ct
+losangeles,Vehicle Travel,core+poi+gsv,drove_alone_per_ct,0.4895482734008311,0.4801690799871041,ct
+losangeles,Vehicle Travel,core+poi+gsv,estpmiles,0.6397765143882426,0.6188307166742277,ct
+losangeles,Vehicle Travel,core+poi+gsv,estptrp,0.6070036248194632,0.5810183362990075,ct
+losangeles,Vehicle Travel,core+poi+gsv,estvmiles,0.6801785284159698,0.6658016224691021,ct
+losangeles,Vehicle Travel,core+poi+gsv,estvtrp,0.6854617714177158,0.6491472213497356,ct
+miami,Crime,core+poi+gsv,logcrime,,,ct
+miami,Crime,core+poi+gsv,logpetty,,,ct
+miami,Health,core+poi+gsv,bphighcrud,0.8207087517267111,0.8128139473143209,ct
+miami,Health,core+poi+gsv,cancercrud,0.9142052540841602,0.9104359776233183,ct
+miami,Health,core+poi+gsv,diabetescr,0.7284350257040333,0.6984971981245044,ct
+miami,Health,core+poi+gsv,lpacrudepr,0.7820459710604749,0.7577929368800211,ct
+miami,Health,core+poi+gsv,mhlthcrude,0.7904515294318595,0.7511013207570756,ct
+miami,Health,core+poi+gsv,obesitycru,0.8214179864319531,0.7903150907335267,ct
+miami,Health,core+poi+gsv,phlthcrude,0.6818833565828945,0.6426783195301196,ct
+miami,Non-vehicle Travel,core+poi+gsv,publictrans_per_ct,0.5637372845800712,0.5434597641201786,ct
+miami,Non-vehicle Travel,core+poi+gsv,walkbike_per_ct,0.4804181920012117,0.4081092730759918,ct
+miami,Poverty,core+poi+gsv,logincome,0.6821534884163997,0.6507296246328045,ct
+miami,Poverty,core+poi+gsv,povertyline_below100,0.5343078644731437,0.44086666000314195,ct
+miami,Poverty,core+poi+gsv,povertyline_below200,0.6802174520341561,0.6282509334791688,ct
+miami,Vehicle Travel,core+poi+gsv,drove_alone_per_ct,0.4085477621351976,0.3845548687878596,ct
+miami,Vehicle Travel,core+poi+gsv,estpmiles,0.726978734448922,0.6690479570718133,ct
+miami,Vehicle Travel,core+poi+gsv,estptrp,0.7137187982478889,0.66016773821087,ct
+miami,Vehicle Travel,core+poi+gsv,estvmiles,0.7174449023821399,0.7163226466389663,ct
+miami,Vehicle Travel,core+poi+gsv,estvtrp,0.7111282725878825,0.6581419832733149,ct
+newyork,Crime,core+poi+gsv,logcrime,0.5337699676039908,0.4941760551572691,ct
+newyork,Crime,core+poi+gsv,logpetty,0.4507358701640519,0.4303878223008374,ct
+newyork,Health,core+poi+gsv,bphighcrud,0.6732381796373307,0.6467700795748699,ct
+newyork,Health,core+poi+gsv,cancercrud,0.8425044219262258,0.8277542696374066,ct
+newyork,Health,core+poi+gsv,diabetescr,0.7138263137800454,0.6923853347136779,ct
+newyork,Health,core+poi+gsv,lpacrudepr,0.6886881917066839,0.6219195241658185,ct
+newyork,Health,core+poi+gsv,mhlthcrude,0.5583184108654893,0.5293645416443014,ct
+newyork,Health,core+poi+gsv,obesitycru,0.6399567115343245,0.6094372925595718,ct
+newyork,Health,core+poi+gsv,phlthcrude,0.5409584041638391,0.5053156987416262,ct
+newyork,Non-vehicle Travel,core+poi+gsv,publictrans_per_ct,0.8703455565502342,0.8655753533692925,ct
+newyork,Non-vehicle Travel,core+poi+gsv,walkbike_per_ct,0.5096813642289273,0.4870624104380843,ct
+newyork,Poverty,core+poi+gsv,logincome,0.6433365070790457,0.6212669807953908,ct
+newyork,Poverty,core+poi+gsv,povertyline_below100,0.5109462484736238,0.4863341250892648,ct
+newyork,Poverty,core+poi+gsv,povertyline_below200,0.608890225540216,0.5869629023399794,ct
+newyork,Vehicle Travel,core+poi+gsv,drove_alone_per_ct,0.901904963709482,0.8961973642027481,ct
+newyork,Vehicle Travel,core+poi+gsv,estpmiles,0.824141912720582,0.8106677631595407,ct
+newyork,Vehicle Travel,core+poi+gsv,estptrp,0.5699117996117777,0.5352025105681163,ct
+newyork,Vehicle Travel,core+poi+gsv,estvmiles,0.8767875660402422,0.8734271768121719,ct
+newyork,Vehicle Travel,core+poi+gsv,estvtrp,0.8857998627839585,0.8727497845591525,ct
+philadelphia,Crime,core+poi+gsv,logcrime,0.8505589168661183,0.7684946544262503,ct
+philadelphia,Crime,core+poi+gsv,logpetty,0.7800948764192952,0.7075697503764136,ct
+philadelphia,Health,core+poi+gsv,bphighcrud,0.7874385940540504,0.7564441136246416,ct
+philadelphia,Health,core+poi+gsv,cancercrud,0.8691105774059029,0.8527337553573953,ct
+philadelphia,Health,core+poi+gsv,diabetescr,0.8279460991967003,0.80079832910068,ct
+philadelphia,Health,core+poi+gsv,lpacrudepr,0.8418552679921352,0.8145485810337231,ct
+philadelphia,Health,core+poi+gsv,mhlthcrude,0.7808594370069484,0.7405112903613209,ct
+philadelphia,Health,core+poi+gsv,obesitycru,0.7618432661030461,0.7127645553937116,ct
+philadelphia,Health,core+poi+gsv,phlthcrude,0.7805639246026734,0.738899599685163,ct
+philadelphia,Non-vehicle Travel,core+poi+gsv,publictrans_per_ct,0.7579872419775324,0.7604818642594462,ct
+philadelphia,Non-vehicle Travel,core+poi+gsv,walkbike_per_ct,0.7128199508380028,0.6559159641050021,ct
+philadelphia,Poverty,core+poi+gsv,logincome,0.7587311939761803,0.7368334813420315,ct
+philadelphia,Poverty,core+poi+gsv,povertyline_below100,0.6900363859261787,0.6529382519520517,ct
+philadelphia,Poverty,core+poi+gsv,povertyline_below200,0.771168355509299,0.743438145303182,ct
+philadelphia,Vehicle Travel,core+poi+gsv,drove_alone_per_ct,0.820583935706028,0.827676700586823,ct
+philadelphia,Vehicle Travel,core+poi+gsv,estpmiles,0.8455960066950293,0.8445923804856413,ct
+philadelphia,Vehicle Travel,core+poi+gsv,estptrp,0.6344359557803829,0.6013228474089714,ct
+philadelphia,Vehicle Travel,core+poi+gsv,estvmiles,0.8718785673862465,0.855427964556527,ct
+philadelphia,Vehicle Travel,core+poi+gsv,estvtrp,0.8423557491181619,0.8413220764424956,ct
+sanfrancisco,Crime,core+poi+gsv,logcrime,0.7724714812951646,0.6028754630135109,ct
+sanfrancisco,Crime,core+poi+gsv,logpetty,0.7432560207682226,0.5807438155301571,ct
+sanfrancisco,Health,core+poi+gsv,bphighcrud,0.6969494415426745,0.6159295888987996,ct
+sanfrancisco,Health,core+poi+gsv,cancercrud,0.876457241732197,0.8373094989945338,ct
+sanfrancisco,Health,core+poi+gsv,diabetescr,0.741007813910283,0.6619197402579895,ct
+sanfrancisco,Health,core+poi+gsv,lpacrudepr,0.7526101799354914,0.6694234323680653,ct
+sanfrancisco,Health,core+poi+gsv,mhlthcrude,0.691159384075037,0.5897731350123211,ct
+sanfrancisco,Health,core+poi+gsv,obesitycru,0.7456696420839892,0.678137416359174,ct
+sanfrancisco,Health,core+poi+gsv,phlthcrude,0.6590004047213536,0.5392240972045814,ct
+sanfrancisco,Non-vehicle Travel,core+poi+gsv,publictrans_per_ct,0.797780263211208,0.7711438200773755,ct
+sanfrancisco,Non-vehicle Travel,core+poi+gsv,walkbike_per_ct,0.8180352801384008,0.7267204985602724,ct
+sanfrancisco,Poverty,core+poi+gsv,logincome,0.6524563286026774,0.5217937798027509,ct
+sanfrancisco,Poverty,core+poi+gsv,povertyline_below100,0.5187403943989003,0.4178374965428189,ct
+sanfrancisco,Poverty,core+poi+gsv,povertyline_below200,0.6368163456093877,0.5379302383295951,ct
+sanfrancisco,Vehicle Travel,core+poi+gsv,drove_alone_per_ct,0.8722994641261363,0.8478977279297031,ct
+sanfrancisco,Vehicle Travel,core+poi+gsv,estpmiles,0.687258365663962,0.6314625712817801,ct
+sanfrancisco,Vehicle Travel,core+poi+gsv,estptrp,0.6259276902684994,0.5538160264835434,ct
+sanfrancisco,Vehicle Travel,core+poi+gsv,estvmiles,0.7271196167501177,0.6874967178228341,ct
+sanfrancisco,Vehicle Travel,core+poi+gsv,estvtrp,0.7384660738823716,0.6601579588859894,ct
