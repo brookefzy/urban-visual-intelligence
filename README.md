@@ -1,7 +1,10 @@
 # Urban Visual Intelligence
-This repo is for reproducing results in the paper. Z. Fan, F. Zhang*, B. Loo, C. Ratti, Estimating neighborhood socio-economic profiles
-with computer vision (under review).
+This is code accompanying the publication: 
+> Fan, Z. et al. [Urban Visual Intelligence: Uncovering Hidden City Profiles with Street View Images](https://www.pnas.org/).
+*PNAS* **xxx** (2023) (under review)
+
 ## Data
+
 To replicate the result, please 
 * fork the repo
 * create a folder `data` inside the repo folder
