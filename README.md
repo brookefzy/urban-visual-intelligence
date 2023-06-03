@@ -4,7 +4,7 @@ This is code accompanying the publication:
 *PNAS* **xxx** (under review)
 
 
-## Data
+## Instructions
 To replicate the result, please 
 * Fork the repo
 ```
@@ -14,7 +14,7 @@ cd urban-visual-intelligence
 * Create an environment (python=3.8)
 * install packages
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 * Create a folder `data` inside the repo folder, and download data from [here](https://drive.google.com/drive/folders/1MucBDnYFhRXD-B8XWMRF5fMKLfb-SS4J?usp=share_link) OR use the command line below:
 ```
@@ -22,7 +22,5 @@ mkdir data
 cd data
 wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1s6xQlggQ6ZnXoMBtIt8gO4hhzRUDqg4t' -O allparameters_ct.csv
 wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1VtpHQOZxjz01KwGrdII_GedtzSfzI0w5' -O allparameters.csv
-
 ```
-* Then download the data from [here](https://drive.google.com/drive/folders/1MucBDnYFhRXD-B8XWMRF5fMKLfb-SS4J?usp=share_link)
 
