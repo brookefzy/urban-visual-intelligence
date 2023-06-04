@@ -12,7 +12,7 @@ gh repo clone brookefzy/urban-visual-intelligence
 cd urban-visual-intelligence
 ```
 * Create an environment (python=3.8)
-* install packages
+* Install packages with pip
 ```
 pip install -r requirements.txt
 ```
