@@ -1,7 +1,6 @@
 # Urban Visual Intelligence
 This is code accompanying the publication: 
-> Fan, Z., Zhang, F., Loo, B.P.Y., Ratti, C. (2023) [Urban Visual Intelligence: Uncovering Hidden City Profiles with Street View Images](https://www.pnas.org/).
-*PNAS* **xxx** (under review)
+> Fan, Z., Zhang, F.*, Loo, B. P., & Ratti, C. (2023). Urban visual intelligence: Uncovering hidden city profiles with street view images. Proceedings of the National Academy of Sciences, 120(27), e2220417120.
 
 
 ## Instructions
