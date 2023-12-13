@@ -1,0 +1,3 @@
+.ipynb_checkpoints/*.ipynb
+./*/ipynb_checkpoints/*.ipynb
+./data/*.csv
